@@ -599,7 +599,7 @@
     },
     {
       "id": "CD_2_31",
-      "name": "B 52",
+      "name": "Flaming Bob Marley",
       "category": "Shooter",
       "short_desc": "Kurzbeschreibung:\n\nEin feuriger Spaß für Liebhaber des Außergewöhnlichen. \"Rasta rules ok\" aber Vorsicht das Zeug macht \"high\".",
       "ingredients": [
@@ -619,7 +619,7 @@
     },
     {
       "id": "CD_2_33",
-      "name": "Flaming Bob Marley",
+      "name": "SOS",
       "category": "Shooter",
       "short_desc": "Kurzbeschreibung:\n\nKeine Panik - cool bleiben - kurz und heftig genießen.",
       "ingredients": [
@@ -1920,7 +1920,7 @@
     },
     {
       "id": "CD_4_50",
-      "name": "SOS",
+      "name": "B 52",
       "category": "Shooter",
       "short_desc": "Kurzbeschreibung:\n\nDer Bomber unter den Shootern. Flambiert, mit einem langen Strohhalm getrunken. Der Partyspaß, der im wahrsten Sinne des Wortes wie eine Bombe einschlägt.",
       "ingredients": [
@@ -2064,9 +2064,9 @@
     "CD_3_65": "Grasshopper",
     "CD_4_09": "Pink Lady",
     "CD_4_60": "Velvet Hammer",
-    "CD_2_31": "B 52",
-    "CD_2_33": "Flaming Bob Marley",
-    "CD_4_50": "SOS",
+    "CD_2_31": "Flaming Bob Marley",
+    "CD_2_33": "SOS",
+    "CD_4_50": "B 52",
     "CD_2_18": "Amazonas",
     "CD_2_20": "Cactus Pussy",
     "CD_2_23": "Cherry Crusta",
