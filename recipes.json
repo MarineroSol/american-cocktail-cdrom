@@ -349,7 +349,7 @@
     },
     {
       "id": "CD_2_04",
-      "name": "Cuba Libre",
+      "name": "Mai Tai",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\n\"Viva Mexiko\" mit viel Tequila. Dieser Drink macht Laune. Schön fruchtig.",
       "ingredients": [
@@ -765,7 +765,7 @@
     },
     {
       "id": "CD_3_12",
-      "name": "Mai Tai",
+      "name": "Cuba Libre",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nEin Klassiker, der erst durch die Zugabe von Limonen die gewünschte Süffigkeit erhält.",
       "ingredients": [
@@ -2101,7 +2101,7 @@
     "CD_1_35": "Caipirovska",
     "CD_1_37": "Chi Chi",
     "CD_2_02": "Choco Colada",
-    "CD_2_04": "Cuba Libre",
+    "CD_2_04": "Mai Tai",
     "CD_2_06": "Dirty Banana",
     "CD_2_10": "El Paso",
     "CD_2_12": "Freddy Fudpucker",
@@ -2110,7 +2110,7 @@
     "CD_2_23A": "Hurricane",
     "CD_2_35": "Long Island Ice Tea",
     "CD_2_37": "Macumba",
-    "CD_3_12": "Mai Tai",
+    "CD_3_12": "Cuba Libre",
     "CD_3_14": "Mexican Night",
     "CD_3_16": "Mexican Screwdriver",
     "CD_3_18": "Ola Lippe Comesta",
