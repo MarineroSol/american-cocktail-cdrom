@@ -2,7 +2,7 @@
   "drinks": [
     {
       "id": "CD_1_05",
-      "name": "Acapulco Dream",
+      "name": "Banana Daiquiri",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nEin eiskalter, fruchtiger Genuß aus Bananen und Rum. Ein Schlemmerdrink.",
       "ingredients": [
@@ -224,7 +224,7 @@
     },
     {
       "id": "CD_1_30",
-      "name": "Alabamer Slammer",
+      "name": "Caipirovska",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nDie etwas mildere Variante des Caipirinhas, bei welcher \"Cachaca\" durch \"Vodka\" ersetzt wird. Auch sehr lecker.",
       "ingredients": [
@@ -245,7 +245,7 @@
     },
     {
       "id": "CD_1_30A",
-      "name": "Banana Daiquiri",
+      "name": "Caipirinha",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nDas Original aus Brasilien wird im Volksmund einfach \"Caipi\" genannt und gewinnt immer mehr an Beliebtheit. Der Renner auf jeder Party.",
       "ingredients": [
@@ -265,7 +265,7 @@
     },
     {
       "id": "CD_1_32",
-      "name": "Caipirinha",
+      "name": "Alabamer Slammer",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nEine exotische Eigenkomposition, die Sie unbedingt mal ausprobieren sollten. Nahm schon teil bei den \"Jamaican Rum Runners Competitions\".",
       "ingredients": [
@@ -285,7 +285,7 @@
     },
     {
       "id": "CD_1_35",
-      "name": "Caipirovska",
+      "name": "Acapulco Dream",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nProbieren Sie diese fruchtige Eigenkomposition aus. Ein herrlicher Genuß, begleitet von süßer Mango.",
       "ingredients": [
@@ -2094,11 +2094,11 @@
     "CD_4_37": "Skip and go naked",
     "CD_4_39": "White Lady",
     "CD_4_52": "Yellow Boxer",
-    "CD_1_05": "Acapulco Dream",
-    "CD_1_30": "Alabamer Slammer",
-    "CD_1_30A": "Banana Daiquiri",
-    "CD_1_32": "Caipirinha",
-    "CD_1_35": "Caipirovska",
+    "CD_1_05": "Banana Daiquiri",
+    "CD_1_30": "Caipirovska",
+    "CD_1_30A": "Caipirinha",
+    "CD_1_32": "Alabamer Slammer",
+    "CD_1_35": "Acapulco Dream",
     "CD_1_37": "Chi Chi",
     "CD_2_02": "Choco Colada",
     "CD_2_04": "Mai Tai",
