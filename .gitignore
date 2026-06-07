@@ -1,0 +1,5 @@
+# Conversion scripts (not needed for the web app)
+*.py
+*.sh
+conversion_log.txt
+conversion_failures.txt

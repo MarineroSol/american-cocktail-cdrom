@@ -1,0 +1,2138 @@
+{
+  "drinks": [
+    {
+      "id": "CD_1_05",
+      "name": "Acapulco Dream",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nEin eiskalter, fruchtiger Genuß aus Bananen und Rum. Ein Schlemmerdrink.",
+      "ingredients": [
+        "4 cl Rum weiß",
+        "6 cl Lemon Squash",
+        "1  Banane"
+      ],
+      "instructions": "Den Strunk der Banane abschneiden und an das Glas als Dekoration stecken. Die Banane schälen und die Frucht in den Elektromixer geben. Rum, Lemon und Eis dazugeben und mit geschlossenem Deckel ca. 1/2 Minute mixen und in das Glas abfüllen.",
+      "glass": "Fancyglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [
+        "Elektromixer"
+      ],
+      "video": "videos/26.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_1_07",
+      "name": "After all",
+      "category": "Medium Cocktails",
+      "short_desc": "Kurzbeschreibung:\n\nEine Freude für Auge und  Gaumen bietet dieser leckere Gin-Cocktail. Eine Cocktailkirsche im Glas bietet einen schönen Farbkontrast zu dem satten Blau des Drinks.",
+      "ingredients": [
+        "4,5 cl Gin",
+        "1,5 cl Blue Curacao",
+        "1,5 cl Lemon Squash"
+      ],
+      "instructions": "Die Zutaten im mit Eis gefüllten Shaker schütteln und in das Cocktailglas abseien.",
+      "glass": "Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_04.png",
+      "tools": [
+        "Barsieb",
+        "Shaker"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_1_10",
+      "name": "Bacardi",
+      "category": "Medium Cocktails",
+      "short_desc": "Kurzbeschreibung:\n\nDer Alkohol spielt bei diesem Drink die Hauptrolle. Ein starker Drink, der sich jedoch schön trinken läßt, da die Zutaten wundervoll zusammen passen.",
+      "ingredients": [
+        "2 cl Rum weiß",
+        "2 cl Triple Sec",
+        "2 cl Brandy",
+        "2 cl Zitronensaft"
+      ],
+      "instructions": "Die Zutaten mit Eis im Shaker schütteln und in das Cocktailglas abseien.",
+      "glass": "Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_04.png",
+      "tools": [
+        "Barsieb",
+        "Shaker"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_1_12",
+      "name": "Between the Sheets",
+      "category": "Medium Cocktails",
+      "short_desc": "Kurzbeschreibung:\n\nEin nobler Medium-Drink mit dem Geschmack von Calvados. Da trinkt man auch gerne mal zwei.",
+      "ingredients": [
+        "4 cl Calvados",
+        "1,5 cl Pfirsichlikör",
+        "1,5 cl Lemon Squash"
+      ],
+      "instructions": "Die Zutaten im Shaker mit Eis schütteln und in das Cocktailglas abseien.",
+      "glass": "Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_04.png",
+      "tools": [
+        "Barsieb",
+        "Shaker"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_1_15",
+      "name": "Black Russian",
+      "category": "Medium Cocktails",
+      "short_desc": "Kurzbeschreibung:\n\nDer fruchtige Tequila-Drink wird auch \"Knock out\" genannt. Wiederum verleiht Galliano dem Drink eine ganz besondere Note.",
+      "ingredients": [
+        "1,5 cl Tequila Gold",
+        "1,5 cl Tequila weiß",
+        "1,5 cl Lemon Squash",
+        "1,5 cl Lime Juice",
+        "1,5 cl Galliano",
+        "1,5 cl Orangensaft"
+      ],
+      "instructions": "Die Zutaten mit Eis im Shaker schütteln und in das Cocktailglas abseien.",
+      "glass": "Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_04.png",
+      "tools": [
+        "Barsieb",
+        "Shaker"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_1_17",
+      "name": "Blue Devil",
+      "category": "Medium Cocktails",
+      "short_desc": "Kurzbeschreibung:\n\nDer einzige Cocktail mit Bier. Sehr erfrischend und anregend.",
+      "ingredients": [
+        "4,5 cl Gin",
+        "1,5 cl Lemon Squash",
+        "1,5 cl Lime Juice",
+        "auffüllen mit Bier"
+      ],
+      "instructions": "Drei Eiswürfel in die Cocktailschale geben. Gin, Lime und Lemon direkt in das Glas geben und anschließend das Glas mit Bier auffüllen.",
+      "glass": "Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_04.png",
+      "tools": [],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_1_19",
+      "name": "Brave Bull",
+      "category": "Medium Cocktails",
+      "short_desc": "Kurzbeschreibung:\n\nDie \"weisse Dame\" gehört auch schon zu den Klassikern unter den Cocktails. In seiner ursprünglichen Form wurde ein Schuß Eiweiß hinzugefügt, was dem Drink eine schöne Schaumkrone verleiht.",
+      "ingredients": [
+        "4,5 cl Gin",
+        "1,5 cl Triple Sec",
+        "1,5 cl Lemon Squash",
+        "1 Schuß Eiweiß"
+      ],
+      "instructions": "Die Zutaten mit Eis im Shaker schütteln und in das Cocktailglas abseien.",
+      "glass": "Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_04.png",
+      "tools": [
+        "Barsieb",
+        "Shaker"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_1_22",
+      "name": "Daiquiri",
+      "category": "Medium Cocktails",
+      "short_desc": "Kurzbeschreibung:\n\nEin klassischer Drink, mit sehr starkem Geschmack und Aroma.",
+      "ingredients": [
+        "3 cl Scotch",
+        "4,5 cl Kaluah"
+      ],
+      "instructions": "Im Cocktailglas: Zutaten in das mit Eis gefüllte Mixglas geben und mit dem Barlöffel durch Rühren vermischen. Anschließend mit Hilfe des Barsiebes in das Cocktailglas abseien.\nIm Tumbler: Tumbler mit Eis füllen, und die Zutaten direkt in das Glas geben.",
+      "glass": "Tumbler oder Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_02.png",
+      "tools": [
+        "Barlöffel",
+        "Barsieb",
+        "Mixglas"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_1_24",
+      "name": "Gimlet",
+      "category": "Medium Cocktails",
+      "short_desc": "Kurzbeschreibung:\n\nEin leckerer Drink mit Vodka. Mit Sahne wird aus dem \"Black Russian\" ein \"White Russian\".",
+      "ingredients": [
+        "3 cl Vodka",
+        "4,5 cl Kaluah"
+      ],
+      "instructions": "Im Cocktailglas: Zutaten in das mit Eis gefüllte Mixglas geben und mit dem Barlöffel durch Rühren vermischen. Anschließend mit Hilfe des Barsiebes in das Cocktailglas abseien.\nIm Tumbler: Tumbler mit Eis füllen, und die Zutaten direkt in das Glas geben.",
+      "glass": "Tumbler oder Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_02.png",
+      "tools": [
+        "Barlöffel",
+        "Barsieb",
+        "Mixglas"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_1_26",
+      "name": "Godfather",
+      "category": "Medium Cocktails",
+      "short_desc": "Kurzbeschreibung:\n\nGeschmeidig wie ein Panther schleicht Ihnen dieser Drink in die Kehle. Fruchtig und anschmiegsam wirkt der Tequila in dieser Rezeptur.",
+      "ingredients": [
+        "3 cl Tequila weiß",
+        "4,5 cl Lemon Squash"
+      ],
+      "instructions": "Im Cocktailglas: Zutaten in das mit Eis gefüllte Mixglas geben und mit dem Barlöffel durch Rühren vermischen. Anschließend mit Hilfe des Barsiebes in das Cocktailglas abseien.\nIm Tumbler: Tumbler mit Eis füllen, und die Zutaten direkt in das Glas geben.",
+      "glass": "Tumbler oder Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_02.png",
+      "tools": [
+        "Barlöffel",
+        "Barsieb",
+        "Mixglas"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_1_28",
+      "name": "Green Dragon",
+      "category": "Medium Cocktails",
+      "short_desc": "Kurzbeschreibung:\n\nEin Verwandter des Black-Russian. Eine Süße Tequila Mischung mit starkem Aroma und Geschmack.",
+      "ingredients": [
+        "3 cl Tequila weiß",
+        "4,5 cl Kaluah"
+      ],
+      "instructions": "Im Cocktailglas: Zutaten in das mit Eis gefüllte Mixglas geben und mit dem Barlöffel durch Rühren vermischen. Anschließend mit Hilfe des Barsiebes in das Cocktailglas abseien.\nIm Tumbler: Tumbler mit Eis füllen, und die Zutaten direkt in das Glas geben.",
+      "glass": "Tumbler oder Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_02.png",
+      "tools": [
+        "Barlöffel",
+        "Barsieb",
+        "Mixglas"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_1_30",
+      "name": "Alabamer Slammer",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nDie etwas mildere Variante des Caipirinhas, bei welcher \"Cachaca\" durch \"Vodka\" ersetzt wird. Auch sehr lecker.",
+      "ingredients": [
+        "5 cl Vodka",
+        "1 Löffel Rohrzucker",
+        "1  Limone"
+      ],
+      "instructions": "Die Limone achteln und in das Glas geben. 1 Eßlöffel braunen Rohrzucker über die Limonenachtel geben und gemeinsam mit dem Mörser zerstampfen. Das Glas mit Crushed Ice auffüllen, und die Spirituose dazugeben. Nach Geschmack lässt sich die Menge des Zuckers und des Alkohols natürlich variieren. Umrühren nicht vergessen!",
+      "glass": "Tumbler",
+      "glass_image": "images/screens/glaeser/glas_02.png",
+      "tools": [
+        "Barlöffel",
+        "Mörser",
+        "Eiscrusher"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_1_30A",
+      "name": "Banana Daiquiri",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nDas Original aus Brasilien wird im Volksmund einfach \"Caipi\" genannt und gewinnt immer mehr an Beliebtheit. Der Renner auf jeder Party.",
+      "ingredients": [
+        "5 cl Pitu",
+        "1 Löffel Rohrzucker",
+        "1  Limone"
+      ],
+      "instructions": "Die Limone achteln und in das Glas geben. 1 Eßlöffel braunen Rohrzucker über die Limonenachtel geben und gemeinsam mit dem Mörser zerstampfen. Das Glas mit Crushed Ice auffüllen, und die Spirituose dazugeben. Nach Geschmack lässt sich die Menge des Zuckers und des Alkohols natürlich variieren. Umrühren nicht vergessen!",
+      "glass": "Tumbler",
+      "glass_image": "images/screens/glaeser/glas_02.png",
+      "tools": [
+        "Mörser",
+        "Eiscrusher"
+      ],
+      "video": "videos/13.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_1_32",
+      "name": "Caipirinha",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nEine exotische Eigenkomposition, die Sie unbedingt mal ausprobieren sollten. Nahm schon teil bei den \"Jamaican Rum Runners Competitions\".",
+      "ingredients": [
+        "4 cl Rum weiß",
+        "10 cl Orangensaft",
+        "2 cl Lychee Likör",
+        "4-5 Achtel Limone"
+      ],
+      "instructions": "Die Limettenachtel in das Glas geben und mit dem Mörser zerstampfen. Dann Eis in das Glas geben. Den Rum und den Orangensaft einfüllen und mit 2cl Lycheelikör übergiessen. Trinkhalm und fertig.",
+      "glass": "Longdrinkglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [
+        "Mörser"
+      ],
+      "video": "videos/23.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_1_35",
+      "name": "Caipirovska",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nProbieren Sie diese fruchtige Eigenkomposition aus. Ein herrlicher Genuß, begleitet von süßer Mango.",
+      "ingredients": [
+        "4 cl Rum weiß",
+        "6 cl Lemon Squash",
+        "8 cl Ananassaft",
+        "2 cl Mangosirup"
+      ],
+      "instructions": "Das Fancyglas und den Shaker mit Eis füllen und die Zutaten in den Shaker geben. Den Drink shaken und in das Glas mit Hilfe des Barsiebs abseien. Mit Frucht nach Belieben dekorieren.",
+      "glass": "Fancyglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [
+        "Barsieb",
+        "Shaker"
+      ],
+      "video": "videos/24.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_1_37",
+      "name": "Chi Chi",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nEin sehr leckerer Cocktail. Aber Vorsicht, sonst finden Sie den Lichtschalter nicht mehr.",
+      "ingredients": [
+        "2 cl Vodka",
+        "2 cl Tequila weiß",
+        "2 cl Rum braun hochprozentig",
+        "2 Spritzer Angostura",
+        "2 Spritzer Grenadine",
+        "auffüllen mit Orangensaft"
+      ],
+      "instructions": "Das Glas mit Eis füllen und die Zutaten einfüllen, mit dem Barlöffel umrühren und mit Frucht nach Belieben dekorieren.",
+      "glass": "Longdrinkglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [
+        "Barlöffel"
+      ],
+      "video": "videos/25.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_2_02",
+      "name": "Choco Colada",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nWenn dieser Tornado durch Ihre Bar wandert, begeistern Sie mit Sicherheit Ihre Gäste. Ein sehr fruchtiger Cocktail aus der Gruppe der \"Longdrinks\".",
+      "ingredients": [
+        "4 cl Tequila weiß",
+        "2 cl Pfirsichlikör",
+        "1 cl Limettensirup",
+        "6 cl Grapefruitsaft",
+        "6 cl Maracujasaft"
+      ],
+      "instructions": "Das Longdrinkglas mit Eis füllen und die Zutaten einfüllen. Mit dem Barlöffel umrühren und mit Trinkhalm und Fruchtdekoration nach Belieben servieren.",
+      "glass": "Longdrinkglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [
+        "Barlöffel"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_2_04",
+      "name": "Cuba Libre",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\n\"Viva Mexiko\" mit viel Tequila. Dieser Drink macht Laune. Schön fruchtig.",
+      "ingredients": [
+        "4 cl Tequila weiß",
+        "2 cl Red Orange",
+        "1 cl Limettensaft",
+        "6 cl Maracujasaft",
+        "6 cl Orangensaft"
+      ],
+      "instructions": "Das Longdrinkglas mit Eis füllen und die Zutaten einfüllen. Mit dem Barlöffel umrühren und mit Trinkhalm und Fruchtdekoration nach Belieben servieren.",
+      "glass": "Longdrinkglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [
+        "Barlöffel"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_2_06",
+      "name": "Dirty Banana",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nWieder ein Longdrink mit dem gewissen Hauch von \"Mexico\". Tequila is all the way.",
+      "ingredients": [
+        "4 cl Tequila weiß",
+        "1 cl Mandarinensirup",
+        "1 cl Zitronensaft",
+        "7 cl Maracujasaft",
+        "7 cl Orangensaft"
+      ],
+      "instructions": "Das Longdrinkglas mit Eis füllen und die Zutaten einfüllen. Mit dem Barlöffel umrühren und mit Trinkhalm und Fruchtdekoration nach Belieben servieren.",
+      "glass": "Longdrinkglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [
+        "Barlöffel"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_2_10",
+      "name": "El Paso",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nIm wahrsten Sinne des Wortes ein \"Traum\" für Ihren Gaumen. Unbedingt ausprobieren.",
+      "ingredients": [
+        "4 cl Tequila weiß",
+        "2 cl Rum braun",
+        "7 cl Ananassaft",
+        "7 cl Grapefruitsaft"
+      ],
+      "instructions": "Das Longdrinkglas mit Eis füllen und die Zutaten einfüllen. Mit dem Barlöffel umrühren und mit Trinkhalm und Fruchtdekoration nach Belieben servieren.",
+      "glass": "Longdrinkglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [
+        "Barlöffel"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_2_12",
+      "name": "Freddy Fudpucker",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nDer Name dieses Drinks entstand, weil er einmal mit einem Schraubenzieher umgerührt wurde. Wenn Sie keinen Schraubenzieher zur Hand haben, greifen Sie doch lieber zum Barlöffel.",
+      "ingredients": [
+        "4 cl Tequila weiß",
+        "auffüllen mit Orangensaft"
+      ],
+      "instructions": "Das Longdrinkglas mit Eis füllen und die Zutaten einfüllen. Mit dem Barlöffel umrühren und mit Trinkhalm und Fruchtdekoration nach Belieben servieren.",
+      "glass": "Longdrinkglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [
+        "Barlöffel"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_2_14",
+      "name": "Harvey Wallbanger",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nDie Mexikanische Version des \"Harvey Wallbanger\" wird natürlich mit Tequila gemixt.",
+      "ingredients": [
+        "4 cl Tequila weiß",
+        "auffüllen mit Orangensaft",
+        "2 cl Galliano"
+      ],
+      "instructions": "Das Glas mit Eis füllen und die Zutaten einfüllen. Zuletzt mit 2cl Gallianl übergiessen. Mit Trinkhalm und Fruchtdekoration nach Belieben servieren.",
+      "glass": "Longdrinkglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_2_16",
+      "name": "Honolulu Juicer",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nMexikanisch mit ein bißchen Southern Comfort. Eine gute Kombination.",
+      "ingredients": [
+        "4 cl Tequila weiß",
+        "auffüllen mit Orangensaft",
+        "2 cl Southern Comfort"
+      ],
+      "instructions": "Das Glas mit Eis füllen und die Zutaten einfüllen. Zuletzt mit 2cl Southern Comfort übergiessen (toppen). Mit Trinkhalm und beliebiger Fruchtdekoration servieren.",
+      "glass": "Longdrinkglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [
+        "Limettenzange"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_2_18",
+      "name": "Amazonas",
+      "category": "Alkoholfreie",
+      "short_desc": "Kurzbeschreibung:\n\nDer fruchtigste Drink unter den nicht-alkoholischen Cocktails. Braucht man auch um einen \"Sex on the beach\" zu mixen.",
+      "ingredients": [
+        "2 cl Mangosaft",
+        "8 cl Orangensaft",
+        "8 cl Ananassaft",
+        "1 cl Grenadine",
+        "1 cl Erdbeersirup"
+      ],
+      "instructions": "Zutaten in das mit Eis gefüllte Glas geben und mit dem Barlöffel umrühren. Mit Trinkhalm und Fruchtdekoration nach Belieben servieren.",
+      "glass": "hohes Becherglas",
+      "glass_image": "images/screens/glaeser/glas_03.png",
+      "tools": [
+        "Barlöffel"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_2_20",
+      "name": "Cactus Pussy",
+      "category": "Alkoholfreie",
+      "short_desc": "Kurzbeschreibung:\n\nEin hervorragender Drink mit dem fruchtig-herben Geschmack von Limone und Maracuja.",
+      "ingredients": [
+        "6 cl Maracujasaft",
+        "2 cl Lime Juice",
+        "auffüllen mit Bitter Lemon"
+      ],
+      "instructions": "Zutaten in das mit Eis gefüllte Glas geben und mit dem Barlöffel umrühren. Mit Trinkhalm und Fruchtdekoration nach Belieben servieren.",
+      "glass": "hohes Becherglas",
+      "glass_image": "images/screens/glaeser/glas_03.png",
+      "tools": [],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_2_23",
+      "name": "Cherry Crusta",
+      "category": "Alkoholfreie",
+      "short_desc": "Kurzbeschreibung:\n\nOhne Alkohol gehts auch. Dieser Drink ist der beste Beweis dafür. Unbedingt antesten.",
+      "ingredients": [
+        "6 cl Ananassaft",
+        "6 cl Orangensaft",
+        "6 cl Maracujasaft",
+        "2 cl Lime Juice"
+      ],
+      "instructions": "Zutaten in das mit Eis gefüllte Glas geben und mit dem Barlöffel umrühren. Mit Trinkhalm und Fruchtdekoration nach Belieben servieren.",
+      "glass": "hohes Becherglas",
+      "glass_image": "images/screens/glaeser/glas_03.png",
+      "tools": [
+        "Barlöffel"
+      ],
+      "video": "videos/37.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_2_23A",
+      "name": "Hurricane",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nEin \"Fancy-Drink\" der Sie zwar nicht \"stechen\", aber durch seinen Geschmack durchaus bestechen kann.",
+      "ingredients": [
+        "2 cl Brandy",
+        "2 cl Rum weiß",
+        "2 cl Triple Sec",
+        "1,5 cl Lemon Squash",
+        "1,5 cl Lime Juice",
+        "10 cl Orangensaft"
+      ],
+      "instructions": "Das Glas mit Eis füllen und die Zutaten direkt in das Glas geben. Zuletzt mit Orangensaft auffüllen und mit dem Barlöffel umrühren. Trinkhalm in das Glas geben und mit Frucht nach Belieben dekorieren.",
+      "glass": "hohes Becherglas",
+      "glass_image": "images/screens/glaeser/glas_03.png",
+      "tools": [
+        "Barlöffel",
+        "Trinkhalme"
+      ],
+      "video": "videos/14.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_2_25",
+      "name": "Drink + Drive",
+      "category": "Alkoholfreie",
+      "short_desc": "Kurzbeschreibung:\n\nFruchtig-frischer Cocktail mit Kirsche und Erdbeere. Paradisisch gut.",
+      "ingredients": [
+        "2 cl Erdbeersirup",
+        "3 cl Lime Juice",
+        "auffüllen mit Kirschsaft"
+      ],
+      "instructions": "Zutaten in das mit Eis gefüllte Glas geben und mit dem Barlöffel umrühren. Mit Trinkhalm und Fruchtdekoration nach Belieben servieren.",
+      "glass": "hohes Becherglas",
+      "glass_image": "images/screens/glaeser/glas_03.png",
+      "tools": [],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_2_27",
+      "name": "Drivers Sunrise",
+      "category": "Alkoholfreie",
+      "short_desc": "Kurzbeschreibung:\n\nDie alkoholfreie Version des \"Tequila Sunrise\".",
+      "ingredients": [
+        "10 cl Orangensaft",
+        "4 cl Lemon Squash",
+        "2 cl Grenadine"
+      ],
+      "instructions": "Das Glas mit Eis füllen und die Zutaten ausser der Grenadine zugeben. Zuletzt vorsichtig 2cl Grenadine einfüllen, damit sie sich am Boden absetzt und das typische Aussehen gibt. Mit Trinkhalm und Fruchtdekoration nach Belieben servieren.",
+      "glass": "Longdrinkglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_2_29",
+      "name": "Fruit Punch",
+      "category": "Alkoholfreie",
+      "short_desc": "Kurzbeschreibung:\n\nCocktailgenuß mit der Lizenz zum Fahren.",
+      "ingredients": [
+        "6 cl Ananassaft",
+        "6 cl Limettensaft",
+        "6 cl Papayasaft"
+      ],
+      "instructions": "Zutaten in das mit Eis gefüllte Glas geben und mit dem Barlöffel umrühren. Mit Trinkhalm und Fruchtdekoration nach Belieben servieren.",
+      "glass": "hohes Becherglas",
+      "glass_image": "images/screens/glaeser/glas_03.png",
+      "tools": [
+        "Barlöffel"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_2_31",
+      "name": "B 52",
+      "category": "Shooter",
+      "short_desc": "Kurzbeschreibung:\n\nEin feuriger Spaß für Liebhaber des Außergewöhnlichen. \"Rasta rules ok\" aber Vorsicht das Zeug macht \"high\".",
+      "ingredients": [
+        "2 cl Grenadine",
+        "2 cl Creme de Menthe",
+        "1 cl Southern Comfort",
+        "1 Schuß Rum braun hochprozentig"
+      ],
+      "instructions": "Die Zutaten mit Hilfe des Barlöffels übereinander in das Glas geben. Rot, grün und gelb soll der Shot von unten nach oben aussehen, wie die Jamaikanischen Farben. Nun wird der Drink angezündet und mit einem Strohhalm in einem Zug ausgetrunken. Kommentar: \"sehr lecker und effektiv\".",
+      "glass": "Stamper",
+      "glass_image": "images/screens/glaeser/.png",
+      "tools": [
+        "Barlöffel"
+      ],
+      "video": "videos/34.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_2_33",
+      "name": "Flaming Bob Marley",
+      "category": "Shooter",
+      "short_desc": "Kurzbeschreibung:\n\nKeine Panik - cool bleiben - kurz und heftig genießen.",
+      "ingredients": [
+        "3 cl Zitronensaft",
+        "2 Spritzer Blue Curacao",
+        "2 cl Zuckersirup",
+        "4-6 cl Tequila weiß"
+      ],
+      "instructions": "Den Zitronensaft in das Glas geben und mit Blue Curacao färben. Mit Hilfe des Barlöffels den Zuckersirup unter den Zitronensaft laufen lassen. Den Tequila auf Eis im Shaker kühlen und wiederum mit dem Barlöffel den Tequila auf die anderen Zutaten im Stamper laufen lassen. In einem Zug trinken!",
+      "glass": "Hardrockstamper",
+      "glass_image": "images/screens/glaeser/.png",
+      "tools": [
+        "Barlöffel",
+        "Shaker",
+        "Barsieb"
+      ],
+      "video": "videos/38.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_2_35",
+      "name": "Long Island Ice Tea",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nDie vollendete Stufe der \"Screws\". Langsam und vorsichtig  genießen.",
+      "ingredients": [
+        "2 cl Schlehenlikör",
+        "2 cl Southern Comfort",
+        "2 cl Galliano",
+        "2 cl Tequila Gold",
+        "auffüllen mit Orangensaft"
+      ],
+      "instructions": "Longdrinkglas mit Eis füllen und die Zutaten der Reihe nach in das Glas geben. Mit Trinkhalm und Fruchtdekoration nach Belieben servieren.",
+      "glass": "Fancyglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [],
+      "video": "videos/35.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_2_37",
+      "name": "Macumba",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nWohl einer der bekanntesten \"Cocktails\". Jetzt auch bei Ihnen zuhause.",
+      "ingredients": [
+        "2 cl Rum braun",
+        "2 cl Rum weiß",
+        "2 cl Creme of Coconut",
+        "8 cl Ananassaft",
+        "8 cl Sahne"
+      ],
+      "instructions": "Die Zutaten mit einer Schaufel Eis in den Mixer geben und ca. 1/2 Minute mixen. Den Drink in das Glas geben und mit Trinkhalm und beliebiger Dekoration versehen (vorzugsweise mit einem Ananasstück).",
+      "glass": "Fancyglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [
+        "Elektromixer"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_01",
+      "name": "Joe Collins",
+      "category": "Collinses",
+      "short_desc": "Kurzbeschreibung:\n\nEin Drink aus der Collins Familie mit mexikanischen Einschlag - Tequila - sehr spritzig.",
+      "ingredients": [
+        "3 cl Tequila weiß",
+        "4,5 cl Lemon Squash",
+        "auffüllen mit Soda"
+      ],
+      "instructions": "Das Longdrinkglas mit Eis füllen und die Zutaten direkt einfüllen. Mit Soda auffüllen und mit einer Cocktailkirsche, die Sie einfach in das Glas geben garnieren.",
+      "glass": "Longdrinkglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_06",
+      "name": "Pedro Collins",
+      "category": "Collinses",
+      "short_desc": "Kurzbeschreibung:\n\nDie erfrischnede Rum-Variante aus der Familie der \"Collinses\".",
+      "ingredients": [
+        "3 cl Rum weiss",
+        "4,5 cl Lemon Squash"
+      ],
+      "instructions": "Das Longdrinkglas mit Eis füllen und die Zutaten direkt einfüllen. Mit Soda auffüllen und mit einer Cocktailkirsche, die Sie einfach in das Glas geben garnieren.",
+      "glass": "Longdrinkglas",
+      "glass_image": null,
+      "tools": [],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_06A",
+      "name": "Pepito Collins",
+      "category": "Collinses",
+      "short_desc": "Kurzbeschreibung:\n\nDie erfrischnede Rum-Variante aus der Familie der \"Collinses\".",
+      "ingredients": [
+        "3 cl Rum weiß",
+        "4,5 cl Lemon Squash",
+        "auffüllen mit Soda"
+      ],
+      "instructions": "Das Longdrinkglas mit Eis füllen und die Zutaten direkt einfüllen. Mit Soda auffüllen und mit einer Cocktailkirsche, die Sie einfach in das Glas geben garnieren.",
+      "glass": "Longdrinkglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_08",
+      "name": "Pitu Collins",
+      "category": "Collinses",
+      "short_desc": "Kurzbeschreibung:\n\nWenn Sie Vodka bevorzugen und erfrischende Drinks mögen, liegen Sie hier richtig.",
+      "ingredients": [
+        "3 cl Vodka",
+        "4,5 cl Lemon Squash",
+        "auffüllen mit Soda"
+      ],
+      "instructions": "Das Longdrinkglas mit Eis füllen und die Zutaten direkt einfüllen. Mit Soda auffüllen und mit einer Cocktailkirsche, die Sie einfach in das Glas geben garnieren.",
+      "glass": "Longdrinkglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_10",
+      "name": "Tom Collins",
+      "category": "Collinses",
+      "short_desc": "Kurzbeschreibung:\n\nEine neue Variante der \"Collinses\". Der Pitu aus Brasilien gibt ihm eine besondere Note.",
+      "ingredients": [
+        "3 cl Pitu",
+        "4,5 cl Lemon Squash",
+        "auffüllen mit Soda"
+      ],
+      "instructions": "Das Longdrinkglas mit Eis füllen und die Zutaten direkt einfüllen. Mit Soda auffüllen und mit einer Cocktailkirsche, die Sie einfach in das Glas geben garnieren.",
+      "glass": "Longdrinkglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_12",
+      "name": "Mai Tai",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nEin Klassiker, der erst durch die Zugabe von Limonen die gewünschte Süffigkeit erhält.",
+      "ingredients": [
+        "4 cl Rum weiß",
+        "2 Viertel Limone",
+        "auffüllen mit Cola"
+      ],
+      "instructions": "Glas mit Eis füllen und die Viertel der Limone in das Glas pressen. Den Rum zugeben und mit Cola auffüllen.",
+      "glass": "Longdrinkglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [
+        "Limettenzange"
+      ],
+      "video": "videos/27.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_3_14",
+      "name": "Mexican Night",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nEin Sonnenaufgang der besondern Art. Fruchtig-süß und durchmischt mit dem herrlichen Geschmack des Tequilas.",
+      "ingredients": [
+        "2 cl Tequila Gold",
+        "2 cl Tequila weiß",
+        "4 cl Lemon Squash",
+        "10 cl Orangensaft",
+        "2 cl Grenadine"
+      ],
+      "instructions": "Das Glas mit Eis füllen und die Zutaten ausser der Grenadine zugeben. Zuletzt vorsichtig 2cl Grenadine einfüllen, damit sie sich am Boden absetzt und das typische Aussehen gibt. Mit Trinkhalm und Fruchtdekoration nach Belieben servieren.",
+      "glass": "Longdrinkglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [],
+      "video": "videos/28.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_3_16",
+      "name": "Mexican Screwdriver",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nEin Drink für heiße Tage. Ohne Salzrand , nennt man ihn \"Greyhound\". Sehr sauer und erfrischend.",
+      "ingredients": [
+        "4 cl Vodka",
+        "6 cl Lemon Squash",
+        "auffüllen mit Grapefruitsaft"
+      ],
+      "instructions": "Den Salzrand am Glas anbringen und vorsichtig das Glas mit Eis füllen. Die Zutaten zugeben und fertig.",
+      "glass": "hohes Becherglas",
+      "glass_image": "images/screens/glaeser/glas_03.png",
+      "tools": [],
+      "video": "videos/29.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_3_18",
+      "name": "Ola Lippe Comesta",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nEine ganz besondere Mischung aromareicher Zutaten. Sehr lecker und im \"Handumdrehen\" fertig.",
+      "ingredients": [
+        "2 cl Schlehenlikör",
+        "2 cl Creme de Banane",
+        "auffüllen mit Orangensaft",
+        "2 cl Southern Comfort"
+      ],
+      "instructions": "Das Glas mit Eis füllen und den Schlehenlikör, sowie den Bananenlikör dazugeben. Mit Orangensaft auffüllen und mit 2cl Southern Comfort übergiessen. Mit Trinkhalm und Fruchtgarnitur nach Belieben dekorieren.",
+      "glass": "Fancyglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [],
+      "video": "videos/30.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_3_21",
+      "name": "Orgasmus",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nFruchtig und spritzig wie der Frühling. Ein sehr beliebter Cocktail. Hier liegen Sie richtig.",
+      "ingredients": [
+        "4 cl Vodka",
+        "6 cl Lemon Squash",
+        "auffüllen mit Orangensaft",
+        "2 cl Blue Curacao"
+      ],
+      "instructions": "Das Glas mit Eis füllen und den Vodka, sowie das Lemon Squash einfüllen. Mit Orangensaft auffüllen und mit 2cl Blue Curacao übergiessen. Mit dem Barlöffel umrühren und mit Trinkhalm und Fruchtdekoration nach Belieben servieren.",
+      "glass": "Fancyglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [
+        "Barlöffel"
+      ],
+      "video": "videos/31.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_3_23",
+      "name": "Pina Colada",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nEin Fruchtdrink mit Schlehenlikör. Die erste Stufe der \"Screws\".",
+      "ingredients": [
+        "2 cl Schlehenlikör",
+        "auffüllen mit Orangensaft"
+      ],
+      "instructions": "Longdrinkglas mit Eis füllen und die Zutaten der Reihe nach in das Glas geben. Mit Trinkhalm und Fruchtdekoration nach Belieben servieren.",
+      "glass": "Longdrinkglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [],
+      "video": "videos/32.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_3_25",
+      "name": "Planters Punch",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nErgänzen Sie den \"Slow\" mit Southern Comfort, erhalten Sie die zweite Stufe der \"Screws\".",
+      "ingredients": [
+        "2 cl Schlehenlikör",
+        "2 cl Southern Comfort",
+        "auffüllen mit Orangensaft"
+      ],
+      "instructions": "Longdrinkglas mit Eis füllen und die Zutaten der Reihe nach in das Glas geben. Mit Trinkhalm und Fruchtdekoration nach Belieben servieren.",
+      "glass": "Longdrinkglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [],
+      "video": "videos/33.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_3_27",
+      "name": "Salty Dog",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nDer Sahnedrink, der Ihre Sinne beflügelt.",
+      "ingredients": [
+        "1,5 cl Vodka",
+        "1,5 cl Creme de Cacao weiß",
+        "1,5 cl Amaretto",
+        "1,5 cl Triple Sec",
+        "4 cl Sahne"
+      ],
+      "instructions": "Die Zutaten in den mit Eis gefüllten Shaker geben und gut mixen. In das Cocktailglas abseien und mit einer kleinen Dekoration nach Belieben verzieren (Physalis passt sehr gut).",
+      "glass": "Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_04.png",
+      "tools": [
+        "Barsieb",
+        "Shaker"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_29",
+      "name": "Batida Copacabana",
+      "category": "Batidas",
+      "short_desc": "Kurzbeschreibung:\n\nAn der Copacabana und auch mit Sicherheit bei Ihnen zuhause ein sehr leckerer Drink.",
+      "ingredients": [
+        "5 cl Pitu",
+        "2 Spritzer Grenadine",
+        "2 Spritzer Zitronensaft",
+        "6 cl Pfirsichsaft"
+      ],
+      "instructions": "Den Tumbler mit Eis füllen und die Zutaten einfüllen. Mit einem Limettenviertel, das sie in das Glas pressen, garnieren.",
+      "glass": "Tumbler",
+      "glass_image": "images/screens/glaeser/glas_02.png",
+      "tools": [],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_31",
+      "name": "Batida de Carnival",
+      "category": "Batidas",
+      "short_desc": "Kurzbeschreibung:\n\nEine Batida Variation die zum Feiern einlädt. Nicht nur beim Carneval in Rio. Sehr süß, sehr lecker.",
+      "ingredients": [
+        "5 cl Pitu",
+        "2 cl Orangensaft",
+        "5 cl Mangosaft"
+      ],
+      "instructions": "Den Tumbler mit Eis füllen und die Zutaten einfüllen. Mit einem Limettenviertel, das sie in das Glas pressen garnieren.",
+      "glass": "Tumbler",
+      "glass_image": "images/screens/glaeser/glas_02.png",
+      "tools": [],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_33",
+      "name": "Batida de Maracuja",
+      "category": "Batidas",
+      "short_desc": "Kurzbeschreibung:\n\nEiner der besten Batidas für einen der besten Fussballspieler. Unbedingt ausprobieren.",
+      "ingredients": [
+        "5 cl Pitu",
+        "2 Spritzer Creme of Coconut",
+        "2 Spritzer Ananassaft",
+        "6 cl Mangosaft"
+      ],
+      "instructions": "Den Tumbler mit Eis füllen und die Zutaten einfüllen. Mit einem Limettenviertel, das sie in das Glas pressen garnieren.",
+      "glass": "Tumbler",
+      "glass_image": "images/screens/glaeser/glas_02.png",
+      "tools": [],
+      "video": "videos/36.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_3_36",
+      "name": "Batida Pele",
+      "category": "Batidas",
+      "short_desc": "Kurzbeschreibung:\n\nSehr erfrischende Batida-Version mit dem unvergleichlichen Geschmack von Maracuja.",
+      "ingredients": [
+        "5 cl Pitu",
+        "2 cl Lemon Squash",
+        "5 cl Maracujasaft"
+      ],
+      "instructions": "Den Tumbler mit Eis füllen und die Zutaten einfüllen. Mit einem Limettenviertel, das sie in das Glas pressen garnieren.",
+      "glass": "Tumbler",
+      "glass_image": "images/screens/glaeser/glas_02.png",
+      "tools": [],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_37",
+      "name": "Scorpion",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nGenießen Sie diesen herrlich fruchtig-herben Drink. Er ist sehr erfrischend.",
+      "ingredients": [
+        "einige Limonenachtel",
+        "4 cl Tequila weiß",
+        "1 cl Limettensirup",
+        "auffüllen mit Bitter Lemon"
+      ],
+      "instructions": "Das Longdrinkglas mit Eis füllen und die Zutaten einfüllen. Mit dem Barlöffel umrühren und mit Trinkhalm und Fruchtdekoration nach Belieben servieren.",
+      "glass": "Longdrinkglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [
+        "Barlöffel"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_40",
+      "name": "Sex on the Beach",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nDer fruchtige Ananasdrink wird sie überraschen - einfach köstlich. Nicht zu süß und sehr, sehr fruchtig.",
+      "ingredients": [
+        "2 cl Rum weiß",
+        "2 cl Amaretto",
+        "2 cl Southern Comfort",
+        "4,5 cl Lemon Squash",
+        "9 cl Ananassaft"
+      ],
+      "instructions": "Das Glas mit Eis füllen und die Zutaten direkt in das Glas geben. Mit dem Barlöffel umrühren und mit Frucht nach Belieben dekorieren.",
+      "glass": "hohes Becherglas",
+      "glass_image": "images/screens/glaeser/glas_03.png",
+      "tools": [
+        "Barlöffel"
+      ],
+      "video": "videos/18.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_3_43",
+      "name": "Singapore Sling",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nEin  besonders fruchtig-exotischer Drink mit unvergleichlichem Aroma. \"All around the world\".",
+      "ingredients": [
+        "2 cl Rum braun",
+        "2 cl Rum weiß",
+        "1 cl Rum braun hochprozentig",
+        "4,5 cl Lemon Squash",
+        "1,5 cl Apricot Brandy",
+        "5 cl Ananassaft",
+        "3 Viertel Limonen"
+      ],
+      "instructions": "Glas mit Eis füllen und mit der Limettenzange 3 Viertel Limetten in das Glas pressen, und die Stücke zugeben. Anschließend die Zutaten direkt in das Glas füllen. Umrühren und Trinkhalm zugeben.",
+      "glass": "hohes Becherglas",
+      "glass_image": "images/screens/glaeser/glas_03.png",
+      "tools": [
+        "Limettenzange",
+        "Barlöffel"
+      ],
+      "video": "videos/16.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_3_45",
+      "name": "Slow Comfortable Screw",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nDieser Cocktail hat einen schlechten Ruf ist aber, richtig gemixt, eine Köstlichkeit.",
+      "ingredients": [
+        "2 cl Rum braun",
+        "2 cl Rum weiß",
+        "1 cl Rum braun hochprozentig",
+        "2 cl Cherry Brandy",
+        "1,5 cl Grenadine",
+        "3 cl Lemon Squash",
+        "8 cl Orangensaft"
+      ],
+      "instructions": "Das Glas mit Eis füllen und die Zutaten einfüllen. Den Metallbecher des Shakers aufsetzten und schütteln. Shakebecher abnehmen und mit Trinkhalm und Fruchtdekoration nach Belieben servieren.",
+      "glass": "hohes Becherglas",
+      "glass_image": "images/screens/glaeser/glas_03.png",
+      "tools": [
+        "Shaker"
+      ],
+      "video": "videos/20.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_3_46",
+      "name": "Slow Comfortable Screw up against the Wall",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nEinst aus dem \"Hotel Raffael\" in Singapore, jetzt in diesem Programm. Spritzig, erfrischend und süß sind seine Eigenschaften.",
+      "ingredients": [
+        "4 cl Gin",
+        "6 cl Lemon Squash",
+        "2 cl Grenadine",
+        "auffüllen mit Soda",
+        "2 cl Cherry Brandy"
+      ],
+      "instructions": "Glas mit Eis füllen und Gin, Lemon und Grenadine einfüllen. Mit Soda auffüllen und mit 2cl Cherry Brandy übergiessen. Mit Cocktailkirsche garnieren.",
+      "glass": "hohes Becherglas",
+      "glass_image": "images/screens/glaeser/glas_03.png",
+      "tools": [],
+      "video": "videos/21.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_3_47",
+      "name": "Manhattan",
+      "category": "Aperitif",
+      "short_desc": "Kurzbeschreibung:\n\nDer Aperitif für Whiskey-Liebhaber. Der Klassiker aus den USA gehört bereits seit 1864 zu den beliebtesten Drinks der Amerikaner.",
+      "ingredients": [
+        "6 cl Bourbon",
+        "2 Spritzer Vermouth Sweet"
+      ],
+      "instructions": "Im Cocktailglas: Eis in das Mixglas geben und das Cocktailglas bereitstellen. Spirituosen in das Mixglas geben und mit dem Barlöffel rühren. Mit dem Barsieb oder \"Strainer\" den Drink ins Glas abseien. Eine Cocktailkirsche zur Dekoration in das Glas geben.\nIm Tumbler: \"On the rocks\". Tumbler mit Eis füllen und Spirituosen laut Rezept direkt in das Glas geben. Als Dekoration eine Cocktailkirsche zugeben.",
+      "glass": "Tumbler oder Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_02.png",
+      "tools": [
+        "Barlöffel",
+        "Mixglas",
+        "Barsieb",
+        "Cocktailspieß"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_49",
+      "name": "Southern Comfort Manhattan",
+      "category": "Aperitif",
+      "short_desc": "Kurzbeschreibung:\n\nBevorzugen Sie lieber einen süßeren Aperitif, so liegen Sie mit diesem Drink auf jeden Fall richtig. Denn selbst mit Southern Comfort ist dieses Rezept sehr zu empfehlen.",
+      "ingredients": [
+        "6 cl Southern Comfort",
+        "2 Spritzer Vermouth Sweet"
+      ],
+      "instructions": "Im Cocktailglas: Rührglas mit Eis füllen, und Cocktailglas bereitstellen. Spirituosen in das Rührglas geben und mit dem Barlöffel rühren. Dann Strainer zur Hand nehmen und in das Cocktailglas abseien. Eine Olive mit Dekospieß aufspiessen und in den Drink geben.\nIm Tumbler: auch \"on the rocks\" genannt. Tumbler mit Eis füllen und die Spirituosen laut Rezept direkt in das Glas geben. Olive aufspiessen und in den Drink geben.",
+      "glass": "Tumbler oder Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_02.png",
+      "tools": [
+        "Barlöffel",
+        "Mixglas",
+        "Barsieb"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_51",
+      "name": "Bronx",
+      "category": "Aperitif",
+      "short_desc": "Kurzbeschreibung:\n\nEin ganz besonderer Aperitif, bei dem sich die Süße des Vermouths, die eigenwillige Trockenheit des Gins und die Fruchtigkeit des Orangensafts perfekt ergänzen.",
+      "ingredients": [
+        "1 cl Vermouth Dry",
+        "1 cl Vermouth Sweet",
+        "3 cl Gin",
+        "3 cl Orangensaft"
+      ],
+      "instructions": "Den Shaker mit Eis füllen und das Cocktailglas bereitstellen. Die Zutaten in den Shaker füllen, den Shaker schließen und dann schütteln. Shaker öffnen und mit dem Barsieb den Drink in das Cocktailglas abseien. Dekoration an den Glasrand stecken.",
+      "glass": "Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_04.png",
+      "tools": [
+        "Shaker",
+        "Barsieb"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_53",
+      "name": "Alexander",
+      "category": "Digestif",
+      "short_desc": "Kurzbeschreibung:\n\nEin leckerer fruchtig-süßer Bannanen-Dessertdrink den Sie zu jeder Tageszeit genießen können.",
+      "ingredients": [
+        "2 cl Creme de Cacao weiß",
+        "2 cl Creme de Banane",
+        "4 cl Sahne"
+      ],
+      "instructions": "Zutaten in den mit Eis gefüllten Shaker geben und gut schütteln. Den Shaker öffnen und mit dem Barsieb den Drink in das Cocktailglas abseien.",
+      "glass": "Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_04.png",
+      "tools": [
+        "Shaker",
+        "Barsieb"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_55",
+      "name": "Banshee",
+      "category": "Digestif",
+      "short_desc": "Kurzbeschreibung:\n\nDer \"sanfte Hammer\", wie schon der Name verspricht. Die Mischung aus Orangen- und Kakaolikör schmeckt besonders interessant.",
+      "ingredients": [
+        "2 cl Creme de Cacao weiß",
+        "2 cl Triple Sec",
+        "4 cl Sahne"
+      ],
+      "instructions": "Zutaten in den mit Eis gefüllten Shaker geben und gut schütteln. Den Shaker öffnen und mit dem Barsieb den Drink in das Cocktailglas abseien.",
+      "glass": "Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_04.png",
+      "tools": [
+        "Shaker",
+        "Barsieb"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_57",
+      "name": "Bird of Paradise",
+      "category": "Digestif",
+      "short_desc": "Kurzbeschreibung:\n\nEin extravaganter cremiger Nachtisch, für alle die Galliano mögen. Dieser vanillehaltige Likör wird aus 32 verschiedenen Kräutern hergestellt und verleiht dem Drink eine besondere Note.",
+      "ingredients": [
+        "2 cl Creme de Cacao weiß",
+        "2 cl Galliano",
+        "4 cl Sahne"
+      ],
+      "instructions": "Zutaten in den mit Eis gefüllten Shaker geben und gut schütteln. Den Shaker öffnen und mit dem Barsieb den Drink in das Cocktailglas abseien.",
+      "glass": "Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_04.png",
+      "tools": [
+        "Shaker",
+        "Barsieb"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_59",
+      "name": "Blue Hawaii",
+      "category": "Digestif",
+      "short_desc": "Kurzbeschreibung:\n\nDer Klassiker unter den Dessertdrinks, den Sie unbedingt probieren sollten. Das besondere Aroma erhält der Alexander durch frisch geriebene Muskatnuß.",
+      "ingredients": [
+        "2 cl Creme de Cacao braun",
+        "2 cl Gin",
+        "4 cl Sahne"
+      ],
+      "instructions": "Zutaten in den mit Eis gefüllten Shaker geben und gut schütteln. Mit dem Barsieb den Drink in das Cocktailglas abseien. Als Dekoration den Drink mit einem Hauch Muskatnuss bestäuben.",
+      "glass": "Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_04.png",
+      "tools": [
+        "Shaker",
+        "Barsieb"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_61",
+      "name": "Brandy Alexander",
+      "category": "Digestif",
+      "short_desc": "Kurzbeschreibung:\n\nEine Variation mit Brandy des bekannten \"Alexander\". Auch hierbei verleiht die Muskatnuß dem Drink das besondere Aroma.",
+      "ingredients": [
+        "2 cl Creme de Cacao braun",
+        "2 cl Brandy",
+        "4 cl Sahne"
+      ],
+      "instructions": "Zutaten in den mit Eis gefüllten Shaker geben und gut schütteln. Mit dem Barsieb den Drink in das Cocktailglas abseien. Als Dekoration den Drink mit einem Hauch Muskatnuss bestäuben.",
+      "glass": "Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_04.png",
+      "tools": [
+        "Shaker",
+        "Barsieb"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_63",
+      "name": "Golden Cadillac",
+      "category": "Digestif",
+      "short_desc": "Kurzbeschreibung:\n\nSehr süßer Nachtisch mit geringem Alkoholanteil.",
+      "ingredients": [
+        "2 cl Gin",
+        "2 cl Grenadine",
+        "4 cl Sahne"
+      ],
+      "instructions": "Zutaten in den mit Eis gefüllten Shaker geben und gut schütteln. Den Shaker öffnen und mit dem Barsieb den Drink in das Cocktailglas abseien.",
+      "glass": "Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_04.png",
+      "tools": [
+        "Shaker",
+        "Barsieb"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_65",
+      "name": "Grasshopper",
+      "category": "Digestif",
+      "short_desc": "Kurzbeschreibung:\n\nParadisischer Hochgenuß zum Dessert oder einfach nur zum Geniessen.",
+      "ingredients": [
+        "1,5 cl Amaretto",
+        "1,5 cl Creme de Cacao weiß",
+        "1 cl Tequila weiß",
+        "4 cl Sahne"
+      ],
+      "instructions": "Zutaten in den mit Eis gefüllten Shaker geben und gut schütteln. Den Shaker öffnen und mit dem Barsieb den Drink in das Cocktailglas abseien.",
+      "glass": "Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_04.png",
+      "tools": [
+        "Shaker",
+        "Barsieb"
+      ],
+      "video": "videos/04.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_3_67",
+      "name": "Aperol Sour",
+      "category": "Sours",
+      "short_desc": "Kurzbeschreibung:\n\nDer Whisky Sour für Leute, die den Geschmack des Scotch Whiskys, dem des Bourbons bevorzugen. Welcher für Sie der Richtige ist, finden Sie am besten selbst heraus. Viel Spass beim Mixen.",
+      "ingredients": [
+        "3 cl Scotch",
+        "4,5 cl Lemon Squash"
+      ],
+      "instructions": "Im Sourglas: Zutaten in den mit Eis gefüllten Shaker geben und gut shaken. Mit dem Barsieb den Drink in das Sourglas abseien und eine Cocktailkirsche als Garnitur zugeben.\nIm Tumbler: \"on the rocks\" Tumbler mit Eis füllen, und die Zutaten direkt in das Glas geben. 1 Cocktailkirsche als Dekoration zugeben.",
+      "glass": "Tumbler oder Sourglas",
+      "glass_image": "images/screens/glaeser/glas_02.png",
+      "tools": [
+        "Barsieb",
+        "Shaker"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_71",
+      "name": "Averna Sour",
+      "category": "Sours",
+      "short_desc": "Kurzbeschreibung:\n\nSind Sie ein Liebhaber des mexikanischen Agavenbrandes, ist das Ihr Rezept unter den Sours.",
+      "ingredients": [
+        "3 cl Tequila weiß",
+        "4,5 cl Lemon Squash"
+      ],
+      "instructions": "Im Sourglas: Zutaten in den mit Eis gefüllten Shaker geben und gut shaken. Mit dem Barsieb den Drink in das Sourglas abseien und eine Cocktailkirsche als Garnitur zugeben.\nIm Tumbler: \"on the rocks\" Tumbler mit Eis füllen, und die Zutaten direkt in das Glas geben. 1 Cocktailkirsche als Dekoration zugeben.",
+      "glass": "Tumbler oder Sourglas",
+      "glass_image": "images/screens/glaeser/glas_02.png",
+      "tools": [
+        "Barsieb",
+        "Shaker"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_79",
+      "name": "Slow Screw",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nEine Vodka-Variation der Pina Colada.",
+      "ingredients": [
+        "4 cl Vodka",
+        "2 cl Creme of Coconut",
+        "8 cl Sahne",
+        "8 cl Ananassaft"
+      ],
+      "instructions": "Die Zutaten mit einer Schaufel Eis in den Mixer geben und ca. 1/2 Minute mixen. Den Drink in das Glas geben und mit Trinkhalm und beliebiger Dekoration versehen (vorzugsweise mit einem Ananasstück).",
+      "glass": "Fancyglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [
+        "Elektromixer"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_81",
+      "name": "Springtime Cooler",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nEin cremig-süßer Drink. Genau das richtige für einen romantischen Abend zu zweit.",
+      "ingredients": [
+        "2 cl Creme de Cacao braun",
+        "2 cl Rum weiß",
+        "2 cl Schokoladensirup",
+        "4 cl Sahne",
+        "10 cl Milch"
+      ],
+      "instructions": "Die Zutaten mit einer Schaufel Eis in den Mixer geben und ca. 1/2 Minute mixen. Den Drink in das Glas geben und mit Trinkhalm und beliebiger Dekoration versehen (vorzugsweise mit einem Ananasstück).",
+      "glass": "Fancyglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [
+        "Elektromixer"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_84",
+      "name": "Teco",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nEine sehr fruchtige Komposition feinster Zutaten. Das Rezept für den benötigten Fruit Punch finden Sie in der Sparte der \"alkoholfreien Drinks\".",
+      "ingredients": [
+        "2 cl Amaretto",
+        "2 cl Vodka",
+        "2 cl Triple Sec",
+        "2 cl Lemon Squash",
+        "10 cl Fruit Punch"
+      ],
+      "instructions": "Zutaten mit sehr viel Eis in den Mixer geben und lange mixen, bis der Drink einer zähen gefrorenen Masse ähnelt. Der Fachausdruck dafür ist \"Frozen\". Mit Trinkhalm und beliebiger Fruchtdekoration garnieren.",
+      "glass": "Fancyglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [
+        "Elektromixer"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_86",
+      "name": "Tempest",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nEine Eigenkomposition der besondern Klasse. Dieser Drink schmeckt auch als \"alkoholfreier\" sehr lecker.",
+      "ingredients": [
+        "6 cl Rum weiß",
+        "6 cl Lemon Squash",
+        "6 cl Pfirsichsaft",
+        "3 cl Erdbeersirup"
+      ],
+      "instructions": "Zutaten mit sehr viel Eis in den Mixer geben und lange mixen, bis der Drink einer zähen gefrorenen Masse ähnelt. Der Fachausdruck dafür ist \"Frozen\". Mit Trinkhalm und beliebiger Fruchtdekoration garnieren.",
+      "glass": "Fancyglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [
+        "Elektromixer"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_88",
+      "name": "Ola",
+      "category": "Alkoholfreie",
+      "short_desc": "Kurzbeschreibung:\n\nFruchtige Eigenkomposition. Paradisischer Cocktailspaß für Autofahrer.",
+      "ingredients": [
+        "8 cl Pfirsichsaft",
+        "8 cl Lemon Squash",
+        "3 cl Erdbeersirup"
+      ],
+      "instructions": "Zutaten mit sehr viel Eis in den Mixer geben und lange mixen, bis der Drink einer zähen gefrorenen Masse ähnelt. Der Fachausdruck dafür ist \"Frozen\". Mit Trinkhalm und beliebiger Fruchtdekoration garnieren.",
+      "glass": "Fancyglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [
+        "Elektromixer"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_90",
+      "name": "Tequila Sunrise",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nDieses Rezept aus dem \"Hedonism\" auf Jamaica ist sensationell. Ein wunderbarer Karibik-Drink.",
+      "ingredients": [
+        "1  Banane",
+        "3 cl Tia Maria",
+        "3 cl Creme de Banane",
+        "6 cl Milch",
+        "1 Schuß Zuckersirup"
+      ],
+      "instructions": "Den abgeschnittenen Strunk der Banane als Dekoration verwenden. Die Zutaten mit der Banane und einer Schaufel Eis im Elektromixer blenden (vermischen). Den Drink in das Glas geben und mit Trinkhalm servieren.",
+      "glass": "Fancyglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [
+        "Elektromixer"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_93",
+      "name": "Tiefseetaucher",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nGalliano mit Orange, Harmonie in Perfektion. Trauen Sie sich ruhig an dieses Rezept ran. Mit Galliano finden Sie in unserem Programm noch viele weitere leckere Rezepte.",
+      "ingredients": [
+        "4 cl Vodka",
+        "auffüllen mit Orangensaft",
+        "2 cl Galliano"
+      ],
+      "instructions": "Das Glas mit Eis füllen und die Zutaten einfüllen. Zuletzt mit 2cl Galliano übergiessen. Mit Trinkhalm und Fruchtdekoration nach Belieben servieren.",
+      "glass": "Longdrinkglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_3_95",
+      "name": "Prima Donna",
+      "category": "Alkoholfreie",
+      "short_desc": "Kurzbeschreibung:\n\nAntialkoholischer Longdrink der Extraklasse. Cocktailgenuß ohne Promille.",
+      "ingredients": [
+        "8 cl Orangensaft",
+        "8 cl Ananassaft",
+        "2 cl Lemon Squash",
+        "2 cl Blue Curacao alkoholfrei"
+      ],
+      "instructions": "Zutaten in das mit Eis gefüllte Glas geben und mit dem Barlöffel umrühren. Mit Trinkhalm und Fruchtdekoration nach Belieben servieren.",
+      "glass": "hohes Becherglas",
+      "glass_image": "images/screens/glaeser/glas_03.png",
+      "tools": [
+        "Barlöffel"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_4_05",
+      "name": "Martini Dry",
+      "category": "Aperitif",
+      "short_desc": "Kurzbeschreibung:\n\nDer Klassiker unter den Aperitifs. Man trinkt ihn entweder geschüttelt oder gerührt.",
+      "ingredients": [
+        "6 cl Gin",
+        "2 Spritzer Vermouth Dry"
+      ],
+      "instructions": "Im Cocktailglas: Rührglas mit Eis füllen, und Cocktailglas bereitstellen. Spirituosen in das Rührglas geben und mit dem Barlöffel rühren. Dann Strainer zur Hand nehmen und in das Cocktailglas abseien. Eine Olive mit Dekospieß aufspiessen und in den Drink geben.\nIm Tumbler: auch \"on the rocks\" genannt. Tumbler mit Eis füllen und die Spirituosen laut Rezept direkt in das Glas geben. Olive aufspiessen und in den Drink geben.",
+      "glass": "Tumbler oder Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_02.png",
+      "tools": [
+        "Barlöffel",
+        "Mixglas",
+        "Barsieb",
+        "Cocktailspieß"
+      ],
+      "video": "videos/01.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_4_07",
+      "name": "Vodka Martini",
+      "category": "Aperitif",
+      "short_desc": "Kurzbeschreibung:\n\nEine Vodka- Alternative zum Martini Dry. Durch den geringen Eigengeschmack des Vodkas schmeckt dieser trockene Aperitif milder als der Martini Dry.",
+      "ingredients": [
+        "6 cl Vodka",
+        "2 Spritzer Vermouth Dry"
+      ],
+      "instructions": "Im Cocktailglas: Rührglas mit Eis füllen, und Cocktailglas bereitstellen. Spirituosen in das Rührglas geben und mit dem Barlöffel rühren. Dann Strainer zur Hand nehmen und in das Cocktailglas abseien. Eine Olive mit Dekospieß aufspiessen und in den Drink geben.\nIm Tumbler: auch \"on the rocks\" genannt. Tumbler mit Eis füllen und die Spirituosen laut Rezept direkt in das Glas geben. Olive aufspiessen und in den Drink geben.",
+      "glass": "Tumbler oder Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_02.png",
+      "tools": [
+        "Barlöffel",
+        "Mixglas",
+        "Barsieb",
+        "Cocktailspieß"
+      ],
+      "video": "videos/02.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_4_09",
+      "name": "Pink Lady",
+      "category": "Digestif",
+      "short_desc": "Kurzbeschreibung:\n\nDer Schoko-Minz- Geschmack wird besonders von Damen geschätzt und ist eine gute Alternative zum Dessert.",
+      "ingredients": [
+        "2 cl Creme de Cacao weiß",
+        "2 cl Creme de Menthe",
+        "4 cl Sahne"
+      ],
+      "instructions": "Zutaten in den mit Eis gefüllten Shaker geben und gut schütteln. Den Shaker öffnen und mit dem Barsieb den Drink in das Cocktailglas abseien.",
+      "glass": "Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_04.png",
+      "tools": [
+        "Shaker",
+        "Barsieb"
+      ],
+      "video": "videos/03.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_4_11",
+      "name": "Rum Sour",
+      "category": "Sours",
+      "short_desc": "Kurzbeschreibung:\n\nDie wohl bekannteste Variation der Sours. Diesen Drink verfeinern Sie am besten mit einem kleinen Schuß Orangensaft.",
+      "ingredients": [
+        "3 cl Bourbon",
+        "4,5 cl Lemon Squash"
+      ],
+      "instructions": "Im Sourglas: Zutaten in den mit Eis gefüllten Shaker geben und gut shaken. Mit dem Barsieb den Drink in das Sourglas abseien und eine Cocktailkirsche als Garnitur zugeben.\nIm Tumbler: \"on the rocks\" Tumbler mit Eis füllen, und die Zutaten direkt in das Glas geben. 1 Cocktailkirsche als Dekoration zugeben.",
+      "glass": "Tumbler oder Sourglas",
+      "glass_image": "images/screens/glaeser/glas_02.png",
+      "tools": [
+        "Barsieb",
+        "Shaker"
+      ],
+      "video": "videos/05.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_4_13",
+      "name": "Scotch Sour",
+      "category": "Sours",
+      "short_desc": "Kurzbeschreibung:\n\nFür Southern Comfort Liebhaber gehört dieser Drink zum Pflichtprogramm. Eine Freude für den Gaumen, wenn man von dem einzigartigen Geschmack des Southern Comforts und der prickelnden Fruchtigkeit gesüßter Zitrone eingeholt wird. Sie können den Drink mit einem Schuß Orangensaft noch verfeinern.",
+      "ingredients": [
+        "3 cl Southern Comfort",
+        "4,5 cl Lemon Squash"
+      ],
+      "instructions": "Im Sourglas: Zutaten in den mit Eis gefüllten Shaker geben und gut shaken. Mit dem Barsieb den Drink in das Sourglas abseien und eine Cocktailkirsche als Garnitur zugeben.\nIm Tumbler: \"on the rocks\" Tumbler mit Eis füllen, und die Zutaten direkt in das Glas geben. 1 Cocktailkirsche als Dekoration zugeben.",
+      "glass": "Tumbler oder Sourglas",
+      "glass_image": "images/screens/glaeser/glas_02.png",
+      "tools": [
+        "Shaker",
+        "Barsieb"
+      ],
+      "video": "videos/06.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_4_15",
+      "name": "Southern Comfort Sour",
+      "category": "Sours",
+      "short_desc": "Kurzbeschreibung:\n\nEin Rum Sour, besonders mit weissen Rum gemixt, ist für Liebhaber der Karibik. Eine erfrischende Komposition, die Sie zu jeder Tageszeit geniessen können.",
+      "ingredients": [
+        "3 cl Rum weiß",
+        "4,5 cl Lemon Squash"
+      ],
+      "instructions": "Im Sourglas: Zutaten in den mit Eis gefüllten Shaker geben und gut shaken. Mit dem Barsieb den Drink in das Sourglas abseien und eine Cocktailkirsche als Garnitur zugeben.\nIm Tumbler: \"on the rocks\" Tumbler mit Eis füllen, und die Zutaten direkt in das Glas geben. 1 Cocktailkirsche als Dekoration zugeben.",
+      "glass": "Tumbler oder Sourglas",
+      "glass_image": "images/screens/glaeser/glas_02.png",
+      "tools": [
+        "Barsieb",
+        "Shaker"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_4_17",
+      "name": "Tequila Sour",
+      "category": "Sours",
+      "short_desc": "Kurzbeschreibung:\n\nEigentlich die leichteste Variante der Sours. Sie können nach diesem Rezept auch \"Limes\" für Ihre Party zuhause mixen. Indem Sie die Zutaten multiplizieren und in eine Flasche abfüllen. Eiskalt wird er dann in Schnapsgläsern getrunken.",
+      "ingredients": [
+        "3 cl Vodka",
+        "4,5 cl Lemon Squash"
+      ],
+      "instructions": "Im Sourglas: Zutaten in den mit Eis gefüllten Shaker geben und gut shaken. Mit dem Barsieb den Drink in das Sourglas abseien und eine Cocktailkirsche als Garnitur zugeben.\nIm Tumbler: \"on the rocks\" Tumbler mit Eis füllen, und die Zutaten direkt in das Glas geben. 1 Cocktailkirsche als Dekoration zugeben.",
+      "glass": "Tumbler oder Sourglas",
+      "glass_image": "images/screens/glaeser/glas_02.png",
+      "tools": [
+        "Barsieb",
+        "Shaker"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_4_19",
+      "name": "Vodka Sour",
+      "category": "Sours",
+      "short_desc": "Kurzbeschreibung:\n\nDer Sour mit dem wenigsten Alkoholanteil. Der beliebte Rhabarberlikör aus Italien eignet sich hervorragend als erfrischender Sommerdrink. Sie können diesen Cocktail auch auf gestossenem Eis in einem Whiskytumbler servieren.",
+      "ingredients": [
+        "3 cl Aperol",
+        "4,5 cl Lemon Squash",
+        "1 Schuß Orangensaft"
+      ],
+      "instructions": "Im Sourglas: Zutaten in den mit Eis gefüllten Shaker geben und gut shaken. Mit dem Barsieb den Drink in das Sourglas abseien und eine Cocktailkirsche als Garnitur zugeben.\nIm Tumbler: \"on the rocks\" Tumbler mit Eis füllen, und die Zutaten direkt in das Glas geben. 1 Cocktailkirsche als Dekoration zugeben.",
+      "glass": "Tumbler oder Sourglas",
+      "glass_image": "images/screens/glaeser/glas_02.png",
+      "tools": [
+        "Barsieb",
+        "Shaker"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_4_21",
+      "name": "Whisky Sour",
+      "category": "Sours",
+      "short_desc": "Kurzbeschreibung:\n\nBella Italia läßt grüßen. Selbst für einen der bekanntesten \"Amaros\", gibt es eine leckere Sour-Variante.",
+      "ingredients": [
+        "3 cl Averna",
+        "4,5 cl Lemon Squash",
+        "1 Schuß Zitronensaft"
+      ],
+      "instructions": "Im Sourglas: Zutaten in den mit Eis gefüllten Shaker geben und gut shaken. Mit dem Barsieb den Drink in das Sourglas abseien und eine Cocktailkirsche als Garnitur zugeben.\nIm Tumbler: \"on the rocks\" Tumbler mit Eis füllen, und die Zutaten direkt in das Glas geben. 1 Cocktailkirsche als Dekoration zugeben.",
+      "glass": "Tumbler oder Sourglas",
+      "glass_image": "images/screens/glaeser/glas_02.png",
+      "tools": [
+        "Barsieb",
+        "Shaker"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_4_23",
+      "name": "Jamaican Gimlet",
+      "category": "Medium Cocktails",
+      "short_desc": "Kurzbeschreibung:\n\nAn diesem Drink labte sich bereits Hemmingway in Cubas berühmter \"La Floridita Bar\". Der Daiquiri ist ein sehr erfrischender Drink, der die Sinne schweifen lässt. Mit einem Spritzer frischer Limette können Sie das Aroma noch verfeinern.",
+      "ingredients": [
+        "3 cl Rum weiß",
+        "6 cl Lemon Squash"
+      ],
+      "instructions": "Die Zutaten in den mit Eis gefüllten Shaker geben und gut schütteln. Mit Hilfe des Barsiebes den Drink in das Cocktailglas abseien.",
+      "glass": "Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_04.png",
+      "tools": [
+        "Barsieb",
+        "Shaker"
+      ],
+      "video": "videos/07.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_4_25",
+      "name": "Kamikaze",
+      "category": "Medium Cocktails",
+      "short_desc": "Kurzbeschreibung:\n\nDer Name dieses fruchtig-süßen Cocktails ist wohlbekannt als Spiritouse. Eine Empfehlung des Hauses.",
+      "ingredients": [
+        "4,5 cl Bacardi",
+        "1,5 cl Grenadine",
+        "1,5 cl Lemon Squash"
+      ],
+      "instructions": "Die Zutaten im Shaker mit Eis schütteln und in das Cocktailglas abseien.",
+      "glass": "Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_04.png",
+      "tools": [
+        "Barsieb",
+        "Shaker"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_4_27",
+      "name": "Margarita",
+      "category": "Medium Cocktails",
+      "short_desc": "Kurzbeschreibung:\n\nSeit 1954 wohl einer der bekanntesten Cocktails aus einem der schönsten Länder der Erde. Viva Tequila, Viva Margarita, Viva Mexico. Die besondere Originalität ist bei diesem Drink der Salzrand.",
+      "ingredients": [
+        "3 cl Tequila weiß",
+        "4,5 cl Lime Juice",
+        "1,5 cl Triple Sec"
+      ],
+      "instructions": "Den Glasrand mit einem Stück Zitrone befeuchten und dann kopfüber in ein mit Salz gefülltes Schälchen tupfen.             Die Zutaten im Shaker auf Eis schütteln, und in das Glas mit Salzrand abseien.",
+      "glass": "Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_04.png",
+      "tools": [
+        "Barsieb",
+        "Shaker"
+      ],
+      "video": "videos/08.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_4_29",
+      "name": "Orange Blossom",
+      "category": "Medium Cocktails",
+      "short_desc": "Kurzbeschreibung:\n\nBei diesem Rezept, das dem des Margaritas gleicht, übernimmt Brandy oder Cognac die Vorherrschaft. Vielleicht die noblere Variante.",
+      "ingredients": [
+        "3 cl Brandy",
+        "4,5 cl Lime Juice",
+        "1,5 cl Triple Sec"
+      ],
+      "instructions": "Die Zutaten im mit Eis gefüllten Shaker schütteln und in das Cocktailglas abseien.",
+      "glass": "Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_04.png",
+      "tools": [
+        "Barsieb",
+        "Shaker"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_4_31",
+      "name": "Panther",
+      "category": "Medium Cocktails",
+      "short_desc": "Kurzbeschreibung:\n\nDie \"Orangen Blüte\" ist ein süß-fruchtiges Erlebnis. Der Alkoholgeschmack des Gins wird hier ziemlich verdeckt. Eine etwas gefährliche Blüte.",
+      "ingredients": [
+        "4,5 cl Gin",
+        "3 cl Orangensaft",
+        "1 Schuß Zuckersirup"
+      ],
+      "instructions": "Die Zutaten mit Eis im Shaker schütteln und in das Cocktailglas abseien.",
+      "glass": "Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_04.png",
+      "tools": [
+        "Barsieb",
+        "Shaker"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_4_35",
+      "name": "Side Car",
+      "category": "Medium Cocktails",
+      "short_desc": "Kurzbeschreibung:\n\nBei exzessiver Einnahme spricht der Name dieses Cocktails für sich. Er schmeckt so fruchtig und leicht, daß man leicht die beinhaltete Alkoholmenge übersehen kann.",
+      "ingredients": [
+        "4,5 cl Vodka",
+        "1,5 cl Lemon Squash",
+        "1,5 cl Lime Juice"
+      ],
+      "instructions": "Die Zutaten mit Eis im Shaker schütteln und in das Cocktailglas abseien.",
+      "glass": "Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_04.png",
+      "tools": [
+        "Barsieb",
+        "Shaker"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_4_37",
+      "name": "Skip and go naked",
+      "category": "Medium Cocktails",
+      "short_desc": "Kurzbeschreibung:\n\nYah man! Das bringt Urlaubsfeeling in Ihre Bar. Fruchtig lecker schmeckt dieser Drink.",
+      "ingredients": [
+        "4,5 cl Rum weiß",
+        "6 cl Lemon Squash",
+        "6 cl Ananassaft"
+      ],
+      "instructions": "Die Zutaten mit Eis im Shaker schütteln und in das Cocktailglas abseien.",
+      "glass": "Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_04.png",
+      "tools": [
+        "Barsieb",
+        "Shaker"
+      ],
+      "video": "videos/09.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_4_39",
+      "name": "White Lady",
+      "category": "Medium Cocktails",
+      "short_desc": "Kurzbeschreibung:\n\nEin alter Bekannter in Cocktailbars.",
+      "ingredients": [
+        "3 cl Gin",
+        "4,5 cl Lime Juice"
+      ],
+      "instructions": "Im Cocktailglas: Zutaten in das mit Eis gefüllte Mixglas geben und mit dem Barlöffel durch Rühren vermischen. Anschließend mit Hilfe des Barsiebes in das Cocktailglas abseien.\nIm Tumbler: Tumbler mit Eis füllen, und die Zutaten direkt in das Glas geben.",
+      "glass": "Tumbler oder Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_02.png",
+      "tools": [
+        "Barsieb",
+        "Mixglas",
+        "Barlöffel"
+      ],
+      "video": "videos/10.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_4_42",
+      "name": "Tornado",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nEine ganz besondere Art Tee zu genießen. Passen Sie auf, daß Ihnen die Teelichter nicht ausgehen.",
+      "ingredients": [
+        "2 cl Vodka",
+        "2 cl Gin",
+        "2 cl Tequila weiß",
+        "2 cl Rum weiß",
+        "2 cl Triple Sec",
+        "4 cl Lime Juice",
+        "2 cl Orangensaft",
+        "auffüllen mit Cola"
+      ],
+      "instructions": "Ein großes Fancyglas (0,5l) mit Eis füllen und die Zutaten direkt einfüllen . Zuletzt mit Cola auffüllen und Trinkhalm, sowie Dekoration nach Belieben zugeben.",
+      "glass": "Fancyglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [],
+      "video": "videos/15.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_4_44",
+      "name": "Turn of the Lights",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nDer fruchtig-frische Wirbelsturm unter den Cocktails. Sehr gefährlich, weil sehr lecker.",
+      "ingredients": [
+        "2 cl Rum braun",
+        "2 cl Rum weiß",
+        "1,5 cl Lemon Squash",
+        "1,5 cl Lime Juice",
+        "3 cl Ananassaft",
+        "3 cl Maracujasaft",
+        "3 cl Pfirsichsaft",
+        "2 Viertel Limonen"
+      ],
+      "instructions": "Das Glas mit Eis füllen und die Limettenstücke hineinpressen. Anschliessend die Zutaten einfüllen, und mit Trinkhalm servieren.",
+      "glass": "hohes Becherglas",
+      "glass_image": "images/screens/glaeser/glas_03.png",
+      "tools": [
+        "Limettenzange"
+      ],
+      "video": "videos/22.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_4_46",
+      "name": "Viva",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nEin süßer, fruchtiger Genuß mit leckerem Rum. Verleiht Urlaubsfeeling.",
+      "ingredients": [
+        "2 cl Rum braun",
+        "2 cl Rum weiss",
+        "2 cl Grenadine",
+        "4,5 cl Lemon Squash",
+        "9 cl Orangensaft"
+      ],
+      "instructions": "Glas mit Eis füllen und Zutaten in den mit Eis gefüllten Shaker geben. Den Drink shaken und mit dem Barsieb in das Glas abseien. Fruchtdekoration nach Belieben am Glas anbringen.",
+      "glass": "Fancyglas",
+      "glass_image": null,
+      "tools": [
+        "Barlöffel",
+        "Barsieb",
+        "Shaker"
+      ],
+      "video": "videos/17.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_4_48",
+      "name": "Zombie",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nEin Fancy-Cocktail mit viel Rum. Mit Vorsicht zu genießen, sonst haben Sie Probleme beim Auftauchen.",
+      "ingredients": [
+        "2 cl Rum braun",
+        "2 cl Rum braun hochprozentig",
+        "4 cl Rum weiß",
+        "1 cl Zuckersirup",
+        "2 cl Lemon Squash",
+        "2 cl Lime Juice",
+        "3 Viertel Limonen"
+      ],
+      "instructions": "Eis crushen und das Glas bis gut über die Hälfte damit füllen. Drei Viertel Limonen mit Hilfe der Zange in das Glas pressen und die Zutaten direkt darübergeben. Mit dem Barlöffel umrühren, fertig.",
+      "glass": "hohes Becherglas",
+      "glass_image": "images/screens/glaeser/glas_03.png",
+      "tools": [
+        "Barlöffel",
+        "Eiscrusher"
+      ],
+      "video": "videos/19.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_4_50",
+      "name": "SOS",
+      "category": "Shooter",
+      "short_desc": "Kurzbeschreibung:\n\nDer Bomber unter den Shootern. Flambiert, mit einem langen Strohhalm getrunken. Der Partyspaß, der im wahrsten Sinne des Wortes wie eine Bombe einschlägt.",
+      "ingredients": [
+        "2 cl Baileys",
+        "2 cl Kaluah",
+        "2 cl Rum braun hochprozentig"
+      ],
+      "instructions": "Die Zutaten mit Hilfe des Barlöffels übereinander in das Glas geben. 1.Kaluah, 2.Baileys , 3.Hochprozentiger Rum. Den Shot anzünden und in einem Zug mit einem Trinkhalm austrinken.",
+      "glass": "Stamper",
+      "glass_image": "images/screens/glaeser/.png",
+      "tools": [
+        "Barlöffel",
+        "Trinkhalme"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_4_52",
+      "name": "Yellow Boxer",
+      "category": "Medium Cocktails",
+      "short_desc": "Kurzbeschreibung:\n\nEin Pfefferminzcocktail mit sehr starkem Aroma und Alkoholanteil.",
+      "ingredients": [
+        "3 cl Vodka",
+        "4,5 cl Creme de Menthe"
+      ],
+      "instructions": "Im Cocktailglas: Zutaten in das mit Eis gefüllte Mixglas geben und mit dem Barlöffel durch Rühren vermischen. Anschließend mit Hilfe des Barsiebes in das Cocktailglas abseien.\nIm Tumbler: Tumbler mit Eis füllen, und die Zutaten direkt in das Glas geben.",
+      "glass": "Tumbler oder Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_02.png",
+      "tools": [
+        "Barlöffel",
+        "Barsieb",
+        "Mixglas"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_4_60",
+      "name": "Velvet Hammer",
+      "category": "Digestif",
+      "short_desc": "Kurzbeschreibung:\n\nEin fruchtiger, weniger süßer Dessertdrink. Bevorzugen SIe eher fruchtige statt cremige Dessertdrinks, liegen Sie hiermit genau richtig.",
+      "ingredients": [
+        "1,5 cl Creme de Cacao weiß",
+        "1,5 cl Blue Curacao",
+        "1 cl Rum weiß",
+        "4 cl Ananassaft"
+      ],
+      "instructions": "Zutaten in den mit Eis gefüllten Shaker geben und gut schütteln. Den Shaker öffnen und mit dem Barsieb den Drink in das Cocktailglas abseien.",
+      "glass": "Cocktailglas",
+      "glass_image": "images/screens/glaeser/glas_04.png",
+      "tools": [
+        "Shaker",
+        "Barsieb"
+      ],
+      "video": null,
+      "has_video": false
+    },
+    {
+      "id": "CD_X_01",
+      "name": "Rum Runner",
+      "category": "Fancys",
+      "short_desc": "Kurzbeschreibung:\n\nEin süßer, fruchtiger Genuß mit leckerem Rum. Verleiht Urlaubsfeeling.",
+      "ingredients": [
+        "2 cl Rum braun",
+        "2 cl Rum weiß",
+        "2 cl Grenadine",
+        "4,5 cl Lemon Squash",
+        "9 cl Orangensaft"
+      ],
+      "instructions": "Glas mit Eis füllen und Zutaten in den mit Eis gefüllten Shaker geben. Den Drink shaken und mit dem Barsieb in das Glas abseien. Fruchtdekoration nach Belieben am Glas anbringen.",
+      "glass": "Fancyglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [
+        "Barlöffel",
+        "Barsieb",
+        "Shaker"
+      ],
+      "video": "videos/17.mp4",
+      "has_video": true
+    },
+    {
+      "id": "CD_X_04",
+      "name": "Gin Fizz Collins",
+      "category": "Collinses",
+      "short_desc": "Kurzbeschreibung:\n\nDer bekannteste unter den \"Collinses\". Von der Rezeptur ist dieser Drink identisch mit dem \"Gin Fizz\".",
+      "ingredients": [
+        "3 cl Gin",
+        "4,5 cl Lemon Squash",
+        "auffüllen mit Soda"
+      ],
+      "instructions": "Das Longdrinkglas mit Eis füllen und die Zutaten direkt einfüllen. Mit Soda auffüllen und mit einer Cocktailkirsche, die Sie einfach in das Glas geben garnieren.",
+      "glass": "Longdrinkglas",
+      "glass_image": "images/screens/glaeser/glas_07.png",
+      "tools": [],
+      "video": "videos/12.mp4",
+      "has_video": true
+    }
+  ],
+  "categories": [
+    "Alkoholfreie",
+    "Aperitif",
+    "Batidas",
+    "Collinses",
+    "Digestif",
+    "Fancys",
+    "Medium Cocktails",
+    "Shooter",
+    "Sours"
+  ],
+  "drink_names": {
+    "CD_1_05": "Acapulco Dream",
+    "CD_1_07": "After all",
+    "CD_1_10": "Bacardi",
+    "CD_1_12": "Between the Sheets",
+    "CD_1_15": "Black Russian",
+    "CD_1_17": "Blue Devil",
+    "CD_1_19": "Brave Bull",
+    "CD_1_22": "Daiquiri",
+    "CD_1_24": "Gimlet",
+    "CD_1_26": "Godfather",
+    "CD_1_28": "Green Dragon",
+    "CD_1_30": "Alabamer Slammer",
+    "CD_1_30A": "Banana Daiquiri",
+    "CD_1_32": "Caipirinha",
+    "CD_1_35": "Caipirovska",
+    "CD_1_37": "Chi Chi",
+    "CD_2_02": "Choco Colada",
+    "CD_2_04": "Cuba Libre",
+    "CD_2_06": "Dirty Banana",
+    "CD_2_10": "El Paso",
+    "CD_2_12": "Freddy Fudpucker",
+    "CD_2_14": "Harvey Wallbanger",
+    "CD_2_16": "Honolulu Juicer",
+    "CD_2_18": "Amazonas",
+    "CD_2_20": "Cactus Pussy",
+    "CD_2_23": "Cherry Crusta",
+    "CD_2_23A": "Hurricane",
+    "CD_2_25": "Drink + Drive",
+    "CD_2_27": "Drivers Sunrise",
+    "CD_2_29": "Fruit Punch",
+    "CD_2_31": "B 52",
+    "CD_2_33": "Flaming Bob Marley",
+    "CD_2_35": "Long Island Ice Tea",
+    "CD_2_37": "Macumba",
+    "CD_3_01": "Joe Collins",
+    "CD_3_06": "Pedro Collins",
+    "CD_3_06A": "Pepito Collins",
+    "CD_3_08": "Pitu Collins",
+    "CD_3_10": "Tom Collins",
+    "CD_3_12": "Mai Tai",
+    "CD_3_14": "Mexican Night",
+    "CD_3_16": "Mexican Screwdriver",
+    "CD_3_18": "Ola Lippe Comesta",
+    "CD_3_21": "Orgasmus",
+    "CD_3_23": "Pina Colada",
+    "CD_3_25": "Planters Punch",
+    "CD_3_27": "Salty Dog",
+    "CD_3_29": "Batida Copacabana",
+    "CD_3_31": "Batida de Carnival",
+    "CD_3_33": "Batida de Maracuja",
+    "CD_3_36": "Batida Pele",
+    "CD_3_37": "Scorpion",
+    "CD_3_40": "Sex on the Beach",
+    "CD_3_43": "Singapore Sling",
+    "CD_3_45": "Slow Comfortable Screw",
+    "CD_3_46": "Slow Comfortable Screw up against the Wall",
+    "CD_3_47": "Manhattan",
+    "CD_3_49": "Southern Comfort Manhattan",
+    "CD_3_51": "Bronx",
+    "CD_3_53": "Alexander",
+    "CD_3_55": "Banshee",
+    "CD_3_57": "Bird of Paradise",
+    "CD_3_59": "Blue Hawaii",
+    "CD_3_61": "Brandy Alexander",
+    "CD_3_63": "Golden Cadillac",
+    "CD_3_65": "Grasshopper",
+    "CD_3_67": "Aperol Sour",
+    "CD_3_71": "Averna Sour",
+    "CD_3_79": "Slow Screw",
+    "CD_3_81": "Springtime Cooler",
+    "CD_3_84": "Teco",
+    "CD_3_86": "Tempest",
+    "CD_3_88": "Ola",
+    "CD_3_90": "Tequila Sunrise",
+    "CD_3_93": "Tiefseetaucher",
+    "CD_3_95": "Prima Donna",
+    "CD_4_05": "Martini Dry",
+    "CD_4_07": "Vodka Martini",
+    "CD_4_09": "Pink Lady",
+    "CD_4_11": "Rum Sour",
+    "CD_4_13": "Scotch Sour",
+    "CD_4_15": "Southern Comfort Sour",
+    "CD_4_17": "Tequila Sour",
+    "CD_4_19": "Vodka Sour",
+    "CD_4_21": "Whisky Sour",
+    "CD_4_23": "Jamaican Gimlet",
+    "CD_4_25": "Kamikaze",
+    "CD_4_27": "Margarita",
+    "CD_4_29": "Orange Blossom",
+    "CD_4_31": "Panther",
+    "CD_4_35": "Side Car",
+    "CD_4_37": "Skip and go naked",
+    "CD_4_39": "White Lady",
+    "CD_4_42": "Tornado",
+    "CD_4_44": "Turn of the Lights",
+    "CD_4_46": "Viva",
+    "CD_4_48": "Zombie",
+    "CD_4_50": "SOS",
+    "CD_4_52": "Yellow Boxer",
+    "CD_4_60": "Velvet Hammer",
+    "CD_X_01": "Rum Runner",
+    "CD_X_04": "Gin Fizz Collins"
+  }
+}
