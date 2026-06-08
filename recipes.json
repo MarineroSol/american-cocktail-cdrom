@@ -2,7 +2,7 @@
   "drinks": [
     {
       "id": "CD_1_05",
-      "name": "Banana Daiquiri",
+      "name": "Acapulco Dream",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nEin eiskalter, fruchtiger Genuß aus Bananen und Rum. Ein Schlemmerdrink.",
       "ingredients": [
@@ -21,7 +21,7 @@
     },
     {
       "id": "CD_1_07",
-      "name": "After all",
+      "name": "Blue Devil",
       "category": "Medium Cocktails",
       "short_desc": "Kurzbeschreibung:\n\nEine Freude für Auge und  Gaumen bietet dieser leckere Gin-Cocktail. Eine Cocktailkirsche im Glas bietet einen schönen Farbkontrast zu dem satten Blau des Drinks.",
       "ingredients": [
@@ -41,7 +41,7 @@
     },
     {
       "id": "CD_1_10",
-      "name": "Bacardi",
+      "name": "Between the Sheets",
       "category": "Medium Cocktails",
       "short_desc": "Kurzbeschreibung:\n\nDer Alkohol spielt bei diesem Drink die Hauptrolle. Ein starker Drink, der sich jedoch schön trinken läßt, da die Zutaten wundervoll zusammen passen.",
       "ingredients": [
@@ -62,7 +62,7 @@
     },
     {
       "id": "CD_1_12",
-      "name": "Between the Sheets",
+      "name": "After all",
       "category": "Medium Cocktails",
       "short_desc": "Kurzbeschreibung:\n\nEin nobler Medium-Drink mit dem Geschmack von Calvados. Da trinkt man auch gerne mal zwei.",
       "ingredients": [
@@ -82,7 +82,7 @@
     },
     {
       "id": "CD_1_15",
-      "name": "Black Russian",
+      "name": "Yellow Boxer",
       "category": "Medium Cocktails",
       "short_desc": "Kurzbeschreibung:\n\nDer fruchtige Tequila-Drink wird auch \"Knock out\" genannt. Wiederum verleiht Galliano dem Drink eine ganz besondere Note.",
       "ingredients": [
@@ -105,7 +105,7 @@
     },
     {
       "id": "CD_1_17",
-      "name": "Blue Devil",
+      "name": "Skip and go naked",
       "category": "Medium Cocktails",
       "short_desc": "Kurzbeschreibung:\n\nDer einzige Cocktail mit Bier. Sehr erfrischend und anregend.",
       "ingredients": [
@@ -123,7 +123,7 @@
     },
     {
       "id": "CD_1_19",
-      "name": "Brave Bull",
+      "name": "White Lady",
       "category": "Medium Cocktails",
       "short_desc": "Kurzbeschreibung:\n\nDie \"weisse Dame\" gehört auch schon zu den Klassikern unter den Cocktails. In seiner ursprünglichen Form wurde ein Schuß Eiweiß hinzugefügt, was dem Drink eine schöne Schaumkrone verleiht.",
       "ingredients": [
@@ -144,7 +144,7 @@
     },
     {
       "id": "CD_1_22",
-      "name": "Daiquiri",
+      "name": "Godfather",
       "category": "Medium Cocktails",
       "short_desc": "Kurzbeschreibung:\n\nEin klassischer Drink, mit sehr starkem Geschmack und Aroma.",
       "ingredients": [
@@ -164,7 +164,7 @@
     },
     {
       "id": "CD_1_24",
-      "name": "Gimlet",
+      "name": "Black Russian",
       "category": "Medium Cocktails",
       "short_desc": "Kurzbeschreibung:\n\nEin leckerer Drink mit Vodka. Mit Sahne wird aus dem \"Black Russian\" ein \"White Russian\".",
       "ingredients": [
@@ -184,7 +184,7 @@
     },
     {
       "id": "CD_1_26",
-      "name": "Godfather",
+      "name": "Panther",
       "category": "Medium Cocktails",
       "short_desc": "Kurzbeschreibung:\n\nGeschmeidig wie ein Panther schleicht Ihnen dieser Drink in die Kehle. Fruchtig und anschmiegsam wirkt der Tequila in dieser Rezeptur.",
       "ingredients": [
@@ -204,7 +204,7 @@
     },
     {
       "id": "CD_1_28",
-      "name": "Green Dragon",
+      "name": "Brave Bull",
       "category": "Medium Cocktails",
       "short_desc": "Kurzbeschreibung:\n\nEin Verwandter des Black-Russian. Eine Süße Tequila Mischung mit starkem Aroma und Geschmack.",
       "ingredients": [
@@ -265,7 +265,7 @@
     },
     {
       "id": "CD_1_32",
-      "name": "Alabamer Slammer",
+      "name": "Macumba",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nEine exotische Eigenkomposition, die Sie unbedingt mal ausprobieren sollten. Nahm schon teil bei den \"Jamaican Rum Runners Competitions\".",
       "ingredients": [
@@ -285,7 +285,7 @@
     },
     {
       "id": "CD_1_35",
-      "name": "Acapulco Dream",
+      "name": "El Paso",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nProbieren Sie diese fruchtige Eigenkomposition aus. Ein herrlicher Genuß, begleitet von süßer Mango.",
       "ingredients": [
@@ -306,7 +306,7 @@
     },
     {
       "id": "CD_1_37",
-      "name": "Chi Chi",
+      "name": "Turn of the Lights",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nEin sehr leckerer Cocktail. Aber Vorsicht, sonst finden Sie den Lichtschalter nicht mehr.",
       "ingredients": [
@@ -328,7 +328,7 @@
     },
     {
       "id": "CD_2_02",
-      "name": "Choco Colada",
+      "name": "Tornado",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nWenn dieser Tornado durch Ihre Bar wandert, begeistern Sie mit Sicherheit Ihre Gäste. Ein sehr fruchtiger Cocktail aus der Gruppe der \"Longdrinks\".",
       "ingredients": [
@@ -349,7 +349,7 @@
     },
     {
       "id": "CD_2_04",
-      "name": "Mai Tai",
+      "name": "Viva",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\n\"Viva Mexiko\" mit viel Tequila. Dieser Drink macht Laune. Schön fruchtig.",
       "ingredients": [
@@ -370,7 +370,7 @@
     },
     {
       "id": "CD_2_06",
-      "name": "Dirty Banana",
+      "name": "Tempest",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nWieder ein Longdrink mit dem gewissen Hauch von \"Mexico\". Tequila is all the way.",
       "ingredients": [
@@ -391,7 +391,7 @@
     },
     {
       "id": "CD_2_10",
-      "name": "El Paso",
+      "name": "Acapulco Dream",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nIm wahrsten Sinne des Wortes ein \"Traum\" für Ihren Gaumen. Unbedingt ausprobieren.",
       "ingredients": [
@@ -411,7 +411,7 @@
     },
     {
       "id": "CD_2_12",
-      "name": "Freddy Fudpucker",
+      "name": "Mexican Screwdriver",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nDer Name dieses Drinks entstand, weil er einmal mit einem Schraubenzieher umgerührt wurde. Wenn Sie keinen Schraubenzieher zur Hand haben, greifen Sie doch lieber zum Barlöffel.",
       "ingredients": [
@@ -429,7 +429,7 @@
     },
     {
       "id": "CD_2_14",
-      "name": "Harvey Wallbanger",
+      "name": "Freddy Fudpucker",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nDie Mexikanische Version des \"Harvey Wallbanger\" wird natürlich mit Tequila gemixt.",
       "ingredients": [
@@ -446,7 +446,7 @@
     },
     {
       "id": "CD_2_16",
-      "name": "Honolulu Juicer",
+      "name": "Teco",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nMexikanisch mit ein bißchen Southern Comfort. Eine gute Kombination.",
       "ingredients": [
@@ -465,7 +465,7 @@
     },
     {
       "id": "CD_2_18",
-      "name": "Amazonas",
+      "name": "Fruit Punch",
       "category": "Alkoholfreie",
       "short_desc": "Kurzbeschreibung:\n\nDer fruchtigste Drink unter den nicht-alkoholischen Cocktails. Braucht man auch um einen \"Sex on the beach\" zu mixen.",
       "ingredients": [
@@ -486,7 +486,7 @@
     },
     {
       "id": "CD_2_20",
-      "name": "Cactus Pussy",
+      "name": "Prima Donna",
       "category": "Alkoholfreie",
       "short_desc": "Kurzbeschreibung:\n\nEin hervorragender Drink mit dem fruchtig-herben Geschmack von Limone und Maracuja.",
       "ingredients": [
@@ -503,7 +503,7 @@
     },
     {
       "id": "CD_2_23",
-      "name": "Cherry Crusta",
+      "name": "Amazonas",
       "category": "Alkoholfreie",
       "short_desc": "Kurzbeschreibung:\n\nOhne Alkohol gehts auch. Dieser Drink ist der beste Beweis dafür. Unbedingt antesten.",
       "ingredients": [
@@ -523,7 +523,7 @@
     },
     {
       "id": "CD_2_23A",
-      "name": "Hurricane",
+      "name": "Scorpion",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nEin \"Fancy-Drink\" der Sie zwar nicht \"stechen\", aber durch seinen Geschmack durchaus bestechen kann.",
       "ingredients": [
@@ -546,7 +546,7 @@
     },
     {
       "id": "CD_2_25",
-      "name": "Drink + Drive",
+      "name": "Cherry Crusta",
       "category": "Alkoholfreie",
       "short_desc": "Kurzbeschreibung:\n\nFruchtig-frischer Cocktail mit Kirsche und Erdbeere. Paradisisch gut.",
       "ingredients": [
@@ -580,7 +580,7 @@
     },
     {
       "id": "CD_2_29",
-      "name": "Fruit Punch",
+      "name": "Drink + Drive",
       "category": "Alkoholfreie",
       "short_desc": "Kurzbeschreibung:\n\nCocktailgenuß mit der Lizenz zum Fahren.",
       "ingredients": [
@@ -641,7 +641,7 @@
     },
     {
       "id": "CD_2_35",
-      "name": "Long Island Ice Tea",
+      "name": "Slow Comfortable Screw up against the Wall",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nDie vollendete Stufe der \"Screws\". Langsam und vorsichtig  genießen.",
       "ingredients": [
@@ -660,7 +660,7 @@
     },
     {
       "id": "CD_2_37",
-      "name": "Macumba",
+      "name": "Pina Colada",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nWohl einer der bekanntesten \"Cocktails\". Jetzt auch bei Ihnen zuhause.",
       "ingredients": [
@@ -681,7 +681,7 @@
     },
     {
       "id": "CD_3_01",
-      "name": "Joe Collins",
+      "name": "Pepito Collins",
       "category": "Collinses",
       "short_desc": "Kurzbeschreibung:\n\nEin Drink aus der Collins Familie mit mexikanischen Einschlag - Tequila - sehr spritzig.",
       "ingredients": [
@@ -714,7 +714,7 @@
     },
     {
       "id": "CD_3_06A",
-      "name": "Pepito Collins",
+      "name": "Pedro Collins",
       "category": "Collinses",
       "short_desc": "Kurzbeschreibung:\n\nDie erfrischnede Rum-Variante aus der Familie der \"Collinses\".",
       "ingredients": [
@@ -731,7 +731,7 @@
     },
     {
       "id": "CD_3_08",
-      "name": "Pitu Collins",
+      "name": "Joe Collins",
       "category": "Collinses",
       "short_desc": "Kurzbeschreibung:\n\nWenn Sie Vodka bevorzugen und erfrischende Drinks mögen, liegen Sie hier richtig.",
       "ingredients": [
@@ -748,7 +748,7 @@
     },
     {
       "id": "CD_3_10",
-      "name": "Tom Collins",
+      "name": "Pitu Collins",
       "category": "Collinses",
       "short_desc": "Kurzbeschreibung:\n\nEine neue Variante der \"Collinses\". Der Pitu aus Brasilien gibt ihm eine besondere Note.",
       "ingredients": [
@@ -784,7 +784,7 @@
     },
     {
       "id": "CD_3_14",
-      "name": "Mexican Night",
+      "name": "Tequila Sunrise",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nEin Sonnenaufgang der besondern Art. Fruchtig-süß und durchmischt mit dem herrlichen Geschmack des Tequilas.",
       "ingredients": [
@@ -803,7 +803,7 @@
     },
     {
       "id": "CD_3_16",
-      "name": "Mexican Screwdriver",
+      "name": "Salty Dog",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nEin Drink für heiße Tage. Ohne Salzrand , nennt man ihn \"Greyhound\". Sehr sauer und erfrischend.",
       "ingredients": [
@@ -820,7 +820,7 @@
     },
     {
       "id": "CD_3_18",
-      "name": "Ola Lippe Comesta",
+      "name": "Alabamer Slammer",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nEine ganz besondere Mischung aromareicher Zutaten. Sehr lecker und im \"Handumdrehen\" fertig.",
       "ingredients": [
@@ -838,7 +838,7 @@
     },
     {
       "id": "CD_3_21",
-      "name": "Orgasmus",
+      "name": "Springtime Cooler",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nFruchtig und spritzig wie der Frühling. Ein sehr beliebter Cocktail. Hier liegen Sie richtig.",
       "ingredients": [
@@ -858,7 +858,7 @@
     },
     {
       "id": "CD_3_23",
-      "name": "Pina Colada",
+      "name": "Slow Screw",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nEin Fruchtdrink mit Schlehenlikör. Die erste Stufe der \"Screws\".",
       "ingredients": [
@@ -874,7 +874,7 @@
     },
     {
       "id": "CD_3_25",
-      "name": "Planters Punch",
+      "name": "Slow Comfortable Screw",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nErgänzen Sie den \"Slow\" mit Southern Comfort, erhalten Sie die zweite Stufe der \"Screws\".",
       "ingredients": [
@@ -891,7 +891,7 @@
     },
     {
       "id": "CD_3_27",
-      "name": "Salty Dog",
+      "name": "Orgasmus",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nDer Sahnedrink, der Ihre Sinne beflügelt.",
       "ingredients": [
@@ -948,7 +948,7 @@
     },
     {
       "id": "CD_3_33",
-      "name": "Batida de Maracuja",
+      "name": "Batida Pele",
       "category": "Batidas",
       "short_desc": "Kurzbeschreibung:\n\nEiner der besten Batidas für einen der besten Fussballspieler. Unbedingt ausprobieren.",
       "ingredients": [
@@ -966,7 +966,7 @@
     },
     {
       "id": "CD_3_36",
-      "name": "Batida Pele",
+      "name": "Batida de Maracuja",
       "category": "Batidas",
       "short_desc": "Kurzbeschreibung:\n\nSehr erfrischende Batida-Version mit dem unvergleichlichen Geschmack von Maracuja.",
       "ingredients": [
@@ -983,7 +983,7 @@
     },
     {
       "id": "CD_3_37",
-      "name": "Scorpion",
+      "name": "Mexican Night",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nGenießen Sie diesen herrlich fruchtig-herben Drink. Er ist sehr erfrischend.",
       "ingredients": [
@@ -1003,7 +1003,7 @@
     },
     {
       "id": "CD_3_40",
-      "name": "Sex on the Beach",
+      "name": "Honolulu Juicer",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nDer fruchtige Ananasdrink wird sie überraschen - einfach köstlich. Nicht zu süß und sehr, sehr fruchtig.",
       "ingredients": [
@@ -1024,7 +1024,7 @@
     },
     {
       "id": "CD_3_43",
-      "name": "Singapore Sling",
+      "name": "Mai Tai",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nEin  besonders fruchtig-exotischer Drink mit unvergleichlichem Aroma. \"All around the world\".",
       "ingredients": [
@@ -1048,7 +1048,7 @@
     },
     {
       "id": "CD_3_45",
-      "name": "Slow Comfortable Screw",
+      "name": "Zombie",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nDieser Cocktail hat einen schlechten Ruf ist aber, richtig gemixt, eine Köstlichkeit.",
       "ingredients": [
@@ -1071,7 +1071,7 @@
     },
     {
       "id": "CD_3_46",
-      "name": "Slow Comfortable Screw up against the Wall",
+      "name": "Singapore Sling",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nEinst aus dem \"Hotel Raffael\" in Singapore, jetzt in diesem Programm. Spritzig, erfrischend und süß sind seine Eigenschaften.",
       "ingredients": [
@@ -1152,7 +1152,7 @@
     },
     {
       "id": "CD_3_53",
-      "name": "Alexander",
+      "name": "Banshee",
       "category": "Digestif",
       "short_desc": "Kurzbeschreibung:\n\nEin leckerer fruchtig-süßer Bannanen-Dessertdrink den Sie zu jeder Tageszeit genießen können.",
       "ingredients": [
@@ -1172,7 +1172,7 @@
     },
     {
       "id": "CD_3_55",
-      "name": "Banshee",
+      "name": "Velvet Hammer",
       "category": "Digestif",
       "short_desc": "Kurzbeschreibung:\n\nDer \"sanfte Hammer\", wie schon der Name verspricht. Die Mischung aus Orangen- und Kakaolikör schmeckt besonders interessant.",
       "ingredients": [
@@ -1192,7 +1192,7 @@
     },
     {
       "id": "CD_3_57",
-      "name": "Bird of Paradise",
+      "name": "Golden Cadillac",
       "category": "Digestif",
       "short_desc": "Kurzbeschreibung:\n\nEin extravaganter cremiger Nachtisch, für alle die Galliano mögen. Dieser vanillehaltige Likör wird aus 32 verschiedenen Kräutern hergestellt und verleiht dem Drink eine besondere Note.",
       "ingredients": [
@@ -1212,7 +1212,7 @@
     },
     {
       "id": "CD_3_59",
-      "name": "Blue Hawaii",
+      "name": "Alexander",
       "category": "Digestif",
       "short_desc": "Kurzbeschreibung:\n\nDer Klassiker unter den Dessertdrinks, den Sie unbedingt probieren sollten. Das besondere Aroma erhält der Alexander durch frisch geriebene Muskatnuß.",
       "ingredients": [
@@ -1252,7 +1252,7 @@
     },
     {
       "id": "CD_3_63",
-      "name": "Golden Cadillac",
+      "name": "Pink Lady",
       "category": "Digestif",
       "short_desc": "Kurzbeschreibung:\n\nSehr süßer Nachtisch mit geringem Alkoholanteil.",
       "ingredients": [
@@ -1272,7 +1272,7 @@
     },
     {
       "id": "CD_3_65",
-      "name": "Grasshopper",
+      "name": "Bird of Paradise",
       "category": "Digestif",
       "short_desc": "Kurzbeschreibung:\n\nParadisischer Hochgenuß zum Dessert oder einfach nur zum Geniessen.",
       "ingredients": [
@@ -1331,7 +1331,7 @@
     },
     {
       "id": "CD_3_79",
-      "name": "Slow Screw",
+      "name": "Chi Chi",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nEine Vodka-Variation der Pina Colada.",
       "ingredients": [
@@ -1351,7 +1351,7 @@
     },
     {
       "id": "CD_3_81",
-      "name": "Springtime Cooler",
+      "name": "Choco Colada",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nEin cremig-süßer Drink. Genau das richtige für einen romantischen Abend zu zweit.",
       "ingredients": [
@@ -1372,7 +1372,7 @@
     },
     {
       "id": "CD_3_84",
-      "name": "Teco",
+      "name": "Sex on the Beach",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nEine sehr fruchtige Komposition feinster Zutaten. Das Rezept für den benötigten Fruit Punch finden Sie in der Sparte der \"alkoholfreien Drinks\".",
       "ingredients": [
@@ -1393,7 +1393,7 @@
     },
     {
       "id": "CD_3_86",
-      "name": "Tempest",
+      "name": "Ola Lippe Comesta",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nEine Eigenkomposition der besondern Klasse. Dieser Drink schmeckt auch als \"alkoholfreier\" sehr lecker.",
       "ingredients": [
@@ -1432,7 +1432,7 @@
     },
     {
       "id": "CD_3_90",
-      "name": "Tequila Sunrise",
+      "name": "Dirty Banana",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nDieses Rezept aus dem \"Hedonism\" auf Jamaica ist sensationell. Ein wunderbarer Karibik-Drink.",
       "ingredients": [
@@ -1453,7 +1453,7 @@
     },
     {
       "id": "CD_3_93",
-      "name": "Tiefseetaucher",
+      "name": "Harvey Wallbanger",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nGalliano mit Orange, Harmonie in Perfektion. Trauen Sie sich ruhig an dieses Rezept ran. Mit Galliano finden Sie in unserem Programm noch viele weitere leckere Rezepte.",
       "ingredients": [
@@ -1470,7 +1470,7 @@
     },
     {
       "id": "CD_3_95",
-      "name": "Prima Donna",
+      "name": "Cactus Pussy",
       "category": "Alkoholfreie",
       "short_desc": "Kurzbeschreibung:\n\nAntialkoholischer Longdrink der Extraklasse. Cocktailgenuß ohne Promille.",
       "ingredients": [
@@ -1532,7 +1532,7 @@
     },
     {
       "id": "CD_4_09",
-      "name": "Pink Lady",
+      "name": "Grasshopper",
       "category": "Digestif",
       "short_desc": "Kurzbeschreibung:\n\nDer Schoko-Minz- Geschmack wird besonders von Damen geschätzt und ist eine gute Alternative zum Dessert.",
       "ingredients": [
@@ -1687,7 +1687,7 @@
     },
     {
       "id": "CD_4_25",
-      "name": "Kamikaze",
+      "name": "Bacardi",
       "category": "Medium Cocktails",
       "short_desc": "Kurzbeschreibung:\n\nDer Name dieses fruchtig-süßen Cocktails ist wohlbekannt als Spiritouse. Eine Empfehlung des Hauses.",
       "ingredients": [
@@ -1727,7 +1727,7 @@
     },
     {
       "id": "CD_4_29",
-      "name": "Orange Blossom",
+      "name": "Side Car",
       "category": "Medium Cocktails",
       "short_desc": "Kurzbeschreibung:\n\nBei diesem Rezept, das dem des Margaritas gleicht, übernimmt Brandy oder Cognac die Vorherrschaft. Vielleicht die noblere Variante.",
       "ingredients": [
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "CD_4_31",
-      "name": "Panther",
+      "name": "Orange Blossom",
       "category": "Medium Cocktails",
       "short_desc": "Kurzbeschreibung:\n\nDie \"Orangen Blüte\" ist ein süß-fruchtiges Erlebnis. Der Alkoholgeschmack des Gins wird hier ziemlich verdeckt. Eine etwas gefährliche Blüte.",
       "ingredients": [
@@ -1767,7 +1767,7 @@
     },
     {
       "id": "CD_4_35",
-      "name": "Side Car",
+      "name": "Kamikaze",
       "category": "Medium Cocktails",
       "short_desc": "Kurzbeschreibung:\n\nBei exzessiver Einnahme spricht der Name dieses Cocktails für sich. Er schmeckt so fruchtig und leicht, daß man leicht die beinhaltete Alkoholmenge übersehen kann.",
       "ingredients": [
@@ -1787,7 +1787,7 @@
     },
     {
       "id": "CD_4_37",
-      "name": "Skip and go naked",
+      "name": "Jamaican Gimlet",
       "category": "Medium Cocktails",
       "short_desc": "Kurzbeschreibung:\n\nYah man! Das bringt Urlaubsfeeling in Ihre Bar. Fruchtig lecker schmeckt dieser Drink.",
       "ingredients": [
@@ -1807,7 +1807,7 @@
     },
     {
       "id": "CD_4_39",
-      "name": "White Lady",
+      "name": "Gimlet",
       "category": "Medium Cocktails",
       "short_desc": "Kurzbeschreibung:\n\nEin alter Bekannter in Cocktailbars.",
       "ingredients": [
@@ -1827,7 +1827,7 @@
     },
     {
       "id": "CD_4_42",
-      "name": "Tornado",
+      "name": "Long Island Ice Tea",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nEine ganz besondere Art Tee zu genießen. Passen Sie auf, daß Ihnen die Teelichter nicht ausgehen.",
       "ingredients": [
@@ -1849,7 +1849,7 @@
     },
     {
       "id": "CD_4_44",
-      "name": "Turn of the Lights",
+      "name": "Hurricane",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nDer fruchtig-frische Wirbelsturm unter den Cocktails. Sehr gefährlich, weil sehr lecker.",
       "ingredients": [
@@ -1896,7 +1896,7 @@
     },
     {
       "id": "CD_4_48",
-      "name": "Zombie",
+      "name": "Tiefseetaucher",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nEin Fancy-Cocktail mit viel Rum. Mit Vorsicht zu genießen, sonst haben Sie Probleme beim Auftauchen.",
       "ingredients": [
@@ -1940,7 +1940,7 @@
     },
     {
       "id": "CD_4_52",
-      "name": "Yellow Boxer",
+      "name": "Green Dragon",
       "category": "Medium Cocktails",
       "short_desc": "Kurzbeschreibung:\n\nEin Pfefferminzcocktail mit sehr starkem Aroma und Alkoholanteil.",
       "ingredients": [
@@ -1960,7 +1960,7 @@
     },
     {
       "id": "CD_4_60",
-      "name": "Velvet Hammer",
+      "name": "Blue Hawaii",
       "category": "Digestif",
       "short_desc": "Kurzbeschreibung:\n\nEin fruchtiger, weniger süßer Dessertdrink. Bevorzugen SIe eher fruchtige statt cremige Dessertdrinks, liegen Sie hiermit genau richtig.",
       "ingredients": [
@@ -1981,7 +1981,7 @@
     },
     {
       "id": "CD_X_01",
-      "name": "Rum Runner",
+      "name": "Planters Punch",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nEin süßer, fruchtiger Genuß mit leckerem Rum. Verleiht Urlaubsfeeling.",
       "ingredients": [
@@ -2004,7 +2004,7 @@
     },
     {
       "id": "CD_X_04",
-      "name": "Gin Fizz Collins",
+      "name": "Tom Collins",
       "category": "Collinses",
       "short_desc": "Kurzbeschreibung:\n\nDer bekannteste unter den \"Collinses\". Von der Rezeptur ist dieser Drink identisch mit dem \"Gin Fizz\".",
       "ingredients": [
@@ -2032,107 +2032,104 @@
     "Sours"
   ],
   "drink_names": {
-    "CD_3_67": "Scotch Sour",
-    "CD_3_71": "Tequila Sour",
-    "CD_4_11": "Whisky Sour",
-    "CD_4_13": "Southern Comfort Sour",
-    "CD_4_15": "Rum Sour",
-    "CD_4_17": "Vodka Sour",
-    "CD_4_19": "Aperol Sour",
-    "CD_4_21": "Averna Sour",
     "CD_3_47": "Manhattan",
-    "CD_3_49": "Southern Comfort Manhattan",
     "CD_3_51": "Bronx",
+    "CD_3_49": "Southern Comfort Manhattan",
     "CD_4_05": "Martini Dry",
     "CD_4_07": "Vodka Martini",
-    "CD_3_01": "Joe Collins",
-    "CD_3_06": "Pedro Collins",
-    "CD_3_06A": "Pepito Collins",
-    "CD_3_08": "Pitu Collins",
-    "CD_3_10": "Tom Collins",
-    "CD_X_04": "Gin Fizz Collins",
-    "CD_3_29": "Batida Copacabana",
-    "CD_3_31": "Batida de Carnival",
-    "CD_3_33": "Batida de Maracuja",
-    "CD_3_36": "Batida Pele",
-    "CD_3_53": "Alexander",
-    "CD_3_55": "Banshee",
-    "CD_3_57": "Bird of Paradise",
-    "CD_3_59": "Blue Hawaii",
-    "CD_3_61": "Brandy Alexander",
-    "CD_3_63": "Golden Cadillac",
-    "CD_3_65": "Grasshopper",
-    "CD_4_09": "Pink Lady",
-    "CD_4_60": "Velvet Hammer",
-    "CD_2_31": "Flaming Bob Marley",
-    "CD_2_33": "SOS",
-    "CD_4_50": "B 52",
-    "CD_2_18": "Amazonas",
-    "CD_2_20": "Cactus Pussy",
-    "CD_2_23": "Cherry Crusta",
-    "CD_2_25": "Drink + Drive",
-    "CD_2_27": "Drivers Sunrise",
-    "CD_2_29": "Fruit Punch",
-    "CD_3_88": "Ola",
-    "CD_3_95": "Prima Donna",
-    "CD_1_07": "After all",
-    "CD_1_10": "Bacardi",
-    "CD_1_12": "Between the Sheets",
-    "CD_1_15": "Black Russian",
-    "CD_1_17": "Blue Devil",
-    "CD_1_19": "Brave Bull",
-    "CD_1_22": "Daiquiri",
-    "CD_1_24": "Gimlet",
-    "CD_1_26": "Godfather",
-    "CD_1_28": "Green Dragon",
-    "CD_4_23": "Jamaican Gimlet",
-    "CD_4_25": "Kamikaze",
+    "CD_1_12": "After all",
+    "CD_1_10": "Between the Sheets",
+    "CD_1_24": "Black Russian",
+    "CD_4_25": "Bacardi",
+    "CD_1_07": "Blue Devil",
+    "CD_1_28": "Brave Bull",
+    "CD_1_05": "Acapulco Dream",
+    "CD_4_39": "Gimlet",
+    "CD_1_22": "Godfather",
+    "CD_4_37": "Jamaican Gimlet",
+    "CD_4_52": "Green Dragon",
+    "CD_4_35": "Kamikaze",
     "CD_4_27": "Margarita",
-    "CD_4_29": "Orange Blossom",
-    "CD_4_31": "Panther",
-    "CD_4_35": "Side Car",
-    "CD_4_37": "Skip and go naked",
-    "CD_4_39": "White Lady",
-    "CD_4_52": "Yellow Boxer",
-    "CD_1_05": "Banana Daiquiri",
+    "CD_1_26": "Panther",
+    "CD_4_31": "Orange Blossom",
+    "CD_4_29": "Side Car",
+    "CD_1_17": "Skip and go naked",
+    "CD_1_19": "White Lady",
+    "CD_1_15": "Yellow Boxer",
+    "CD_2_33": "SOS",
+    "CD_2_31": "Flaming Bob Marley",
+    "CD_4_50": "B 52",
+    "CD_3_29": "Batida Copacabana",
+    "CD_3_36": "Batida de Maracuja",
+    "CD_3_31": "Batida de Carnival",
+    "CD_3_33": "Batida Pele",
+    "CD_2_23": "Amazonas",
+    "CD_3_95": "Cactus Pussy",
+    "CD_2_25": "Cherry Crusta",
+    "CD_2_29": "Drink + Drive",
+    "CD_2_27": "Drivers Sunrise",
+    "CD_2_18": "Fruit Punch",
+    "CD_2_20": "Prima Donna",
+    "CD_3_88": "Ola",
+    "CD_3_08": "Joe Collins",
+    "CD_3_06A": "Pedro Collins",
+    "CD_3_10": "Pitu Collins",
+    "CD_3_01": "Pepito Collins",
+    "CD_X_04": "Tom Collins",
+    "CD_3_59": "Alexander",
+    "CD_3_53": "Banshee",
+    "CD_3_65": "Bird of Paradise",
+    "CD_4_60": "Blue Hawaii",
+    "CD_3_61": "Brandy Alexander",
+    "CD_3_57": "Golden Cadillac",
+    "CD_3_63": "Pink Lady",
+    "CD_3_55": "Velvet Hammer",
+    "CD_4_09": "Grasshopper",
+    "CD_4_19": "Aperol Sour",
+    "CD_4_21": "Averna Sour",
+    "CD_4_15": "Rum Sour",
+    "CD_3_67": "Scotch Sour",
+    "CD_3_71": "Tequila Sour",
+    "CD_4_13": "Southern Comfort Sour",
+    "CD_4_17": "Vodka Sour",
+    "CD_4_11": "Whisky Sour",
+    "CD_2_10": "Acapulco Dream",
     "CD_1_30": "Caipirovska",
     "CD_1_30A": "Caipirinha",
-    "CD_1_32": "Alabamer Slammer",
-    "CD_1_35": "Acapulco Dream",
-    "CD_1_37": "Chi Chi",
-    "CD_2_02": "Choco Colada",
-    "CD_2_04": "Mai Tai",
-    "CD_2_06": "Dirty Banana",
-    "CD_2_10": "El Paso",
-    "CD_2_12": "Freddy Fudpucker",
-    "CD_2_14": "Harvey Wallbanger",
-    "CD_2_16": "Honolulu Juicer",
-    "CD_2_23A": "Hurricane",
-    "CD_2_35": "Long Island Ice Tea",
-    "CD_2_37": "Macumba",
+    "CD_3_18": "Alabamer Slammer",
+    "CD_3_79": "Chi Chi",
+    "CD_3_81": "Choco Colada",
     "CD_3_12": "Cuba Libre",
-    "CD_3_14": "Mexican Night",
-    "CD_3_16": "Mexican Screwdriver",
-    "CD_3_18": "Ola Lippe Comesta",
-    "CD_3_21": "Orgasmus",
-    "CD_3_23": "Pina Colada",
-    "CD_3_25": "Planters Punch",
-    "CD_3_27": "Salty Dog",
-    "CD_3_37": "Scorpion",
-    "CD_3_40": "Sex on the Beach",
-    "CD_3_43": "Singapore Sling",
-    "CD_3_45": "Slow Comfortable Screw",
-    "CD_3_46": "Slow Comfortable Screw up against the Wall",
-    "CD_3_79": "Slow Screw",
-    "CD_3_81": "Springtime Cooler",
-    "CD_3_84": "Teco",
-    "CD_3_86": "Tempest",
-    "CD_3_90": "Tequila Sunrise",
-    "CD_3_93": "Tiefseetaucher",
-    "CD_4_42": "Tornado",
-    "CD_4_44": "Turn of the Lights",
-    "CD_4_46": "Viva",
-    "CD_4_48": "Zombie",
-    "CD_X_01": "Rum Runner"
+    "CD_1_35": "El Paso",
+    "CD_3_90": "Dirty Banana",
+    "CD_2_14": "Freddy Fudpucker",
+    "CD_3_93": "Harvey Wallbanger",
+    "CD_3_40": "Honolulu Juicer",
+    "CD_4_44": "Hurricane",
+    "CD_4_42": "Long Island Ice Tea",
+    "CD_1_32": "Macumba",
+    "CD_3_43": "Mai Tai",
+    "CD_3_37": "Mexican Night",
+    "CD_2_12": "Mexican Screwdriver",
+    "CD_3_86": "Ola Lippe Comesta",
+    "CD_3_27": "Orgasmus",
+    "CD_2_37": "Pina Colada",
+    "CD_X_01": "Planters Punch",
+    "CD_2_23A": "Scorpion",
+    "CD_3_16": "Salty Dog",
+    "CD_3_84": "Sex on the Beach",
+    "CD_3_46": "Singapore Sling",
+    "CD_2_35": "Slow Comfortable Screw up against the Wall",
+    "CD_3_23": "Slow Screw",
+    "CD_3_25": "Slow Comfortable Screw",
+    "CD_3_21": "Springtime Cooler",
+    "CD_3_14": "Tequila Sunrise",
+    "CD_2_06": "Tempest",
+    "CD_4_48": "Tiefseetaucher",
+    "CD_2_16": "Teco",
+    "CD_2_02": "Tornado",
+    "CD_1_37": "Turn of the Lights",
+    "CD_3_45": "Zombie",
+    "CD_2_04": "Viva"
   }
 }
