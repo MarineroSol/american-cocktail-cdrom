@@ -2,9 +2,9 @@
   "drinks": [
     {
       "id": "CD_1_05",
-      "name": "Acapulco Dream",
+      "name": "Banana Daiquiri",
       "category": "Fancys",
-      "short_desc": "Kurzbeschreibung:\n\nEin eiskalter, fruchtiger Genuß aus Bananen und Rum. Ein Schlemmerdrink.",
+      "short_desc": "Kurzbeschreibung:\n\nEin eiskalter, fruchtiger Genuss aus Bananen und Rum. Ein Schlemmerdrink.",
       "ingredients": [
         "4 cl Rum weiß",
         "6 cl Lemon Squash",
@@ -43,7 +43,7 @@
       "id": "CD_1_10",
       "name": "Between the Sheets",
       "category": "Medium Cocktails",
-      "short_desc": "Kurzbeschreibung:\n\nDer Alkohol spielt bei diesem Drink die Hauptrolle. Ein starker Drink, der sich jedoch schön trinken läßt, da die Zutaten wundervoll zusammen passen.",
+      "short_desc": "Kurzbeschreibung:\n\nDer Alkohol spielt bei diesem Drink die Hauptrolle. Ein starker Drink, der sich jedoch schön trinken lässt, da die Zutaten wundervoll zusammen passen.",
       "ingredients": [
         "2 cl Rum weiß",
         "2 cl Triple Sec",
@@ -125,7 +125,7 @@
       "id": "CD_1_19",
       "name": "White Lady",
       "category": "Medium Cocktails",
-      "short_desc": "Kurzbeschreibung:\n\nDie \"weisse Dame\" gehört auch schon zu den Klassikern unter den Cocktails. In seiner ursprünglichen Form wurde ein Schuß Eiweiß hinzugefügt, was dem Drink eine schöne Schaumkrone verleiht.",
+      "short_desc": "Kurzbeschreibung:\n\nDie \"weisse Dame\" gehört auch schon zu den Klassikern unter den Cocktails. In seiner ursprünglichen Form wurde ein Schuss Eiweiß hinzugefügt, was dem Drink eine schöne Schaumkrone verleiht.",
       "ingredients": [
         "4,5 cl Gin",
         "1,5 cl Triple Sec",
@@ -287,7 +287,7 @@
       "id": "CD_1_35",
       "name": "El Paso",
       "category": "Fancys",
-      "short_desc": "Kurzbeschreibung:\n\nProbieren Sie diese fruchtige Eigenkomposition aus. Ein herrlicher Genuß, begleitet von süßer Mango.",
+      "short_desc": "Kurzbeschreibung:\n\nProbieren Sie diese fruchtige Eigenkomposition aus. Ein herrlicher Genuss, begleitet von süßer Mango.",
       "ingredients": [
         "4 cl Rum weiß",
         "6 cl Lemon Squash",
@@ -606,7 +606,7 @@
         "2 cl Grenadine",
         "2 cl Creme de Menthe",
         "1 cl Southern Comfort",
-        "1 Schuß Rum braun hochprozentig"
+        "1 Schuss Rum braun hochprozentig"
       ],
       "instructions": "Die Zutaten mit Hilfe des Barlöffels übereinander in das Glas geben. Rot, grün und gelb soll der Shot von unten nach oben aussehen, wie die Jamaikanischen Farben. Nun wird der Drink angezündet und mit einem Strohhalm in einem Zug ausgetrunken. Kommentar: \"sehr lecker und effektiv\".",
       "glass": "Stamper",
@@ -698,7 +698,7 @@
     },
     {
       "id": "CD_3_06",
-      "name": "Pedro Collins",
+      "name": "Rum Collins",
       "category": "Collinses",
       "short_desc": "Kurzbeschreibung:\n\nDie erfrischnede Rum-Variante aus der Familie der \"Collinses\".",
       "ingredients": [
@@ -820,7 +820,7 @@
     },
     {
       "id": "CD_3_18",
-      "name": "Alabamer Slammer",
+      "name": "Alabama Slammer",
       "category": "Fancys",
       "short_desc": "Kurzbeschreibung:\n\nEine ganz besondere Mischung aromareicher Zutaten. Sehr lecker und im \"Handumdrehen\" fertig.",
       "ingredients": [
@@ -1440,7 +1440,7 @@
         "3 cl Tia Maria",
         "3 cl Creme de Banane",
         "6 cl Milch",
-        "1 Schuß Zuckersirup"
+        "1 Schuss Zuckersirup"
       ],
       "instructions": "Den abgeschnittenen Strunk der Banane als Dekoration verwenden. Die Zutaten mit der Banane und einer Schaufel Eis im Elektromixer blenden (vermischen). Den Drink in das Glas geben und mit Trinkhalm servieren.",
       "glass": "Fancyglas",
@@ -1554,7 +1554,7 @@
       "id": "CD_4_11",
       "name": "Whisky Sour",
       "category": "Sours",
-      "short_desc": "Kurzbeschreibung:\n\nDie wohl bekannteste Variation der Sours. Diesen Drink verfeinern Sie am besten mit einem kleinen Schuß Orangensaft.",
+      "short_desc": "Kurzbeschreibung:\n\nDie wohl bekannteste Variation der Sours. Diesen Drink verfeinern Sie am besten mit einem kleinen Schuss Orangensaft.",
       "ingredients": [
         "3 cl Bourbon",
         "4,5 cl Lemon Squash"
@@ -1573,7 +1573,7 @@
       "id": "CD_4_13",
       "name": "Southern Comfort Sour",
       "category": "Sours",
-      "short_desc": "Kurzbeschreibung:\n\nFür Southern Comfort Liebhaber gehört dieser Drink zum Pflichtprogramm. Eine Freude für den Gaumen, wenn man von dem einzigartigen Geschmack des Southern Comforts und der prickelnden Fruchtigkeit gesüßter Zitrone eingeholt wird. Sie können den Drink mit einem Schuß Orangensaft noch verfeinern.",
+      "short_desc": "Kurzbeschreibung:\n\nFür Southern Comfort Liebhaber gehört dieser Drink zum Pflichtprogramm. Eine Freude für den Gaumen, wenn man von dem einzigartigen Geschmack des Southern Comforts und der prickelnden Fruchtigkeit gesüßter Zitrone eingeholt wird. Sie können den Drink mit einem Schuss Orangensaft noch verfeinern.",
       "ingredients": [
         "3 cl Southern Comfort",
         "4,5 cl Lemon Squash"
@@ -1634,7 +1634,7 @@
       "ingredients": [
         "3 cl Aperol",
         "4,5 cl Lemon Squash",
-        "1 Schuß Orangensaft"
+        "1 Schuss Orangensaft"
       ],
       "instructions": "Im Sourglas: Zutaten in den mit Eis gefüllten Shaker geben und gut shaken. Mit dem Barsieb den Drink in das Sourglas abseien und eine Cocktailkirsche als Garnitur zugeben.\nIm Tumbler: \"on the rocks\" Tumbler mit Eis füllen, und die Zutaten direkt in das Glas geben. 1 Cocktailkirsche als Dekoration zugeben.",
       "glass": "Tumbler oder Sourglas",
@@ -1650,11 +1650,11 @@
       "id": "CD_4_21",
       "name": "Averna Sour",
       "category": "Sours",
-      "short_desc": "Kurzbeschreibung:\n\nBella Italia läßt grüßen. Selbst für einen der bekanntesten \"Amaros\", gibt es eine leckere Sour-Variante.",
+      "short_desc": "Kurzbeschreibung:\n\nBella Italia lässt grüßen. Selbst für einen der bekanntesten \"Amaros\", gibt es eine leckere Sour-Variante.",
       "ingredients": [
         "3 cl Averna",
         "4,5 cl Lemon Squash",
-        "1 Schuß Zitronensaft"
+        "1 Schuss Zitronensaft"
       ],
       "instructions": "Im Sourglas: Zutaten in den mit Eis gefüllten Shaker geben und gut shaken. Mit dem Barsieb den Drink in das Sourglas abseien und eine Cocktailkirsche als Garnitur zugeben.\nIm Tumbler: \"on the rocks\" Tumbler mit Eis füllen, und die Zutaten direkt in das Glas geben. 1 Cocktailkirsche als Dekoration zugeben.",
       "glass": "Tumbler oder Sourglas",
@@ -1753,7 +1753,7 @@
       "ingredients": [
         "4,5 cl Gin",
         "3 cl Orangensaft",
-        "1 Schuß Zuckersirup"
+        "1 Schuss Zuckersirup"
       ],
       "instructions": "Die Zutaten mit Eis im Shaker schütteln und in das Cocktailglas abseien.",
       "glass": "Cocktailglas",
@@ -1769,7 +1769,7 @@
       "id": "CD_4_35",
       "name": "Kamikaze",
       "category": "Medium Cocktails",
-      "short_desc": "Kurzbeschreibung:\n\nBei exzessiver Einnahme spricht der Name dieses Cocktails für sich. Er schmeckt so fruchtig und leicht, daß man leicht die beinhaltete Alkoholmenge übersehen kann.",
+      "short_desc": "Kurzbeschreibung:\n\nBei exzessiver Einnahme spricht der Name dieses Cocktails für sich. Er schmeckt so fruchtig und leicht, dass man leicht die beinhaltete Alkoholmenge übersehen kann.",
       "ingredients": [
         "4,5 cl Vodka",
         "1,5 cl Lemon Squash",
@@ -1829,7 +1829,7 @@
       "id": "CD_4_42",
       "name": "Long Island Ice Tea",
       "category": "Fancys",
-      "short_desc": "Kurzbeschreibung:\n\nEine ganz besondere Art Tee zu genießen. Passen Sie auf, daß Ihnen die Teelichter nicht ausgehen.",
+      "short_desc": "Kurzbeschreibung:\n\nEine ganz besondere Art Tee zu genießen. Passen Sie auf, dass Ihnen die Teelichter nicht ausgehen.",
       "ingredients": [
         "2 cl Vodka",
         "2 cl Gin",
@@ -1875,7 +1875,7 @@
       "id": "CD_4_46",
       "name": "Viva",
       "category": "Fancys",
-      "short_desc": "Kurzbeschreibung:\n\nEin süßer, fruchtiger Genuß mit leckerem Rum. Verleiht Urlaubsfeeling.",
+      "short_desc": "Kurzbeschreibung:\n\nEin süßer, fruchtiger Genuss mit leckerem Rum. Verleiht Urlaubsfeeling.",
       "ingredients": [
         "2 cl Rum braun",
         "2 cl Rum weiss",
@@ -1983,7 +1983,7 @@
       "id": "CD_X_01",
       "name": "Planters Punch",
       "category": "Fancys",
-      "short_desc": "Kurzbeschreibung:\n\nEin süßer, fruchtiger Genuß mit leckerem Rum. Verleiht Urlaubsfeeling.",
+      "short_desc": "Kurzbeschreibung:\n\nEin süßer, fruchtiger Genuss mit leckerem Rum. Verleiht Urlaubsfeeling.",
       "ingredients": [
         "2 cl Rum braun",
         "2 cl Rum weiß",
@@ -2043,7 +2043,7 @@
     "CD_4_25": "Bacardi",
     "CD_1_07": "Blue Devil",
     "CD_1_28": "Brave Bull",
-    "CD_1_05": "Acapulco Dream",
+    "CD_1_05": "Banana Daiquiri",
     "CD_4_39": "Gimlet",
     "CD_1_22": "Godfather",
     "CD_4_37": "Jamaican Gimlet",
@@ -2096,7 +2096,7 @@
     "CD_2_10": "Acapulco Dream",
     "CD_1_30": "Caipirovska",
     "CD_1_30A": "Caipirinha",
-    "CD_3_18": "Alabamer Slammer",
+    "CD_3_18": "Alabama Slammer",
     "CD_3_79": "Chi Chi",
     "CD_3_81": "Choco Colada",
     "CD_3_12": "Cuba Libre",
@@ -2130,6 +2130,7 @@
     "CD_2_02": "Tornado",
     "CD_1_37": "Turn of the Lights",
     "CD_3_45": "Zombie",
-    "CD_2_04": "Viva"
+    "CD_2_04": "Viva",
+    "CD_3_06": "Rum Collins"
   }
 }
